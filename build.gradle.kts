@@ -9,6 +9,12 @@ configurations {
 
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-webflux")
+  implementation("com.squareup.moshi:moshi:1.15.0")
+  implementation("com.squareup.moshi:moshi-kotlin:1.15.0")
+  implementation("com.squareup.moshi:moshi-adapters:1.15.0")
+
+  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
+  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 }
 
 java {
