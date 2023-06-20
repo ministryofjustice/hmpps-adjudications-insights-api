@@ -1,28 +1,34 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
-
-import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
+import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
+import org.mockito.Mock
+import org.mockito.Mockito.*
 
 class ChartServiceTest {
 
-  @Test
-  fun x () {
-    val chartService = ChartService()
+  @Mock
+  private val s3Service: S3Service = S3Service()
 
-    assertThat(chartService.getChart("SKI").incident_prison).isEqualTo("SKI")
+  @BeforeEach
+  @Throws(Exception::class)
+  fun setUp() {
+//    `when`(this.s3Service.initializeChart(anyString())).thenReturn(HashMap())
   }
 
   @Test
-  fun y ()   {
-    val chartService = ChartService()
+  fun getChart() {
 
-    val x = runBlocking {
-      chartService.getChart2("SKI")?.incident_prison
+    class ChartServiceMock : ChartService() {
+      override fun getS3Service(): S3Service {
+        return s3Service
+      }
     }
+    val chartService = ChartServiceMock()
 
-    assertThat(x).isEqualTo("SKI")
+    val chart = chartService.getChart("ACI", "1a_test.json")
+    assertThat(chart).isNotNull
   }
 
 }
