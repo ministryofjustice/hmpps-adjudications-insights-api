@@ -4,7 +4,6 @@ import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import org.mockito.Mock
-import org.mockito.Mockito.*
 
 class ChartServiceTest {
 
@@ -19,12 +18,12 @@ class ChartServiceTest {
 
   @Test
   fun getChart() {
-
     class ChartServiceMock : ChartService() {
       override fun getS3Service(): S3Service {
         return s3Service
       }
     }
+
     val chartService = ChartServiceMock()
 
     val chart = chartService.getChart("ACI", "1a_test.json")

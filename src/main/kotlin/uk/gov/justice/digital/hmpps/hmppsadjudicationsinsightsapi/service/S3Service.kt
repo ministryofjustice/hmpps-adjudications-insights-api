@@ -16,5 +16,4 @@ class S3Service {
 
     return items
   }
-
 }

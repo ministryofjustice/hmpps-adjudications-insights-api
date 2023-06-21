@@ -23,7 +23,4 @@ class ChartController {
     val chart = chartService.getChart(incidentId, chartName)
     return ChartDataResponseDto(incidentId, chartName, chart.get())
   }
-
-
-
 }

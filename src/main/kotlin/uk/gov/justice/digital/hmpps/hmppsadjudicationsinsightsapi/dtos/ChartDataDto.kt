@@ -18,7 +18,7 @@ data class ChartDataResponseDto(
   val chartName: String,
 
   @Schema(
-    description = "List of chart data details"
+    description = "List of chart data details",
   )
   val chartEntries: List<ChartDataDto>,
 
@@ -57,17 +57,17 @@ data class ChartDataDto(
   )
   val count_prev: Int,
 
-
 )
 
 enum class PronounTypes(val chartName: String, val fileName: String, val tabName: String, val description: String) {
-  CHART_1A("1a", "test_chart_1a.json","Totals - adjudications and locations", "Total adjudications - over 24 months"),
-  CHART_1B("1b", "test_chart_1b.json","Totals - adjudications and locations", "Total adjudications referred to independent adjudicator – over 24 months"),
-  CHART_1C("1c", "test_chart_1c.json", "Totals - adjudications and locations","Total adjudications by location of rule-breaking offence - last 30 days"),
-  CHART_1D("1d", "test_chart_1d.json", "Totals - adjudications and locations","Total adjudications by location of rule-breaking offence"),
+  CHART_1A("1a", "test_chart_1a.json", "Totals - adjudications and locations", "Total adjudications - over 24 months"),
+  CHART_1B("1b", "test_chart_1b.json", "Totals - adjudications and locations", "Total adjudications referred to independent adjudicator – over 24 months"),
+  CHART_1C("1c", "test_chart_1c.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence - last 30 days"),
+  CHART_1D("1d", "test_chart_1d.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence"),
+
   // missing
   // CHART_1E("1e", "test_chart_1e.json", "Totals - adjudications and locations", "Total adjudications by residential location of offender – last 30 days"),
-  CHART_1F("1f", "test_chart_1f.json", "Totals - adjudications and locations","Total adjudications by residential location of offender"),
+  CHART_1F("1f", "test_chart_1f.json", "Totals - adjudications and locations", "Total adjudications by residential location of offender"),
 
   CHART_2A("2a", "test_chart_2a.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners in the establishment by {{ religion }} currently"),
   CHART_2B("2b", "test_chart_2b.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners with an adjudication by {{ religion }} – last 30 days"),
@@ -88,5 +88,4 @@ enum class PronounTypes(val chartName: String, val fileName: String, val tabName
   CHART_5B("5b", "test_chart_5b.json", "Pleas and findings", "Total adjudications by finding – current month and previous 12 months"),
   // missing
   // CHART_5C("5c", "test_chart_5c.json", "Pleas and findings", "Percentage of resolved adjudications with more than one hearing – current month and last 12 months"),
-  ;
 }
