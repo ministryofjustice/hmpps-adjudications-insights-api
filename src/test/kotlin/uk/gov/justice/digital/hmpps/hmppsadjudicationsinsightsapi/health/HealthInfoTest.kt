@@ -1,5 +1,7 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.health
 
+import kotlinx.coroutines.coroutineScope
+import kotlinx.coroutines.launch
 import org.assertj.core.api.Assertions
 import org.junit.jupiter.api.Test
 import org.springframework.boot.info.BuildProperties
@@ -12,5 +14,9 @@ class HealthInfoTest {
     properties.setProperty("version", "somever")
     Assertions.assertThat(HealthInfo(BuildProperties(properties)).health().details)
       .isEqualTo(mapOf("version" to "somever"))
+  }
+
+  suspend fun test(): Unit = coroutineScope {
+    launch { }
   }
 }

@@ -49,3 +49,7 @@ management:
     info:
       cache:
         time-to-live: 2000ms
+
+data-insights:
+  bucket:
+    name: mojap-adjudications-insights
