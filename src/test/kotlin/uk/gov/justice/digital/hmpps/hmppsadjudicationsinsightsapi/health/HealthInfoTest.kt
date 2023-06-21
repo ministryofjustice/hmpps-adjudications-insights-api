@@ -17,9 +17,6 @@ class HealthInfoTest {
   }
 
   suspend fun test(): Unit = coroutineScope {
-
-    launch {  }
-
-
+    launch { }
   }
 }

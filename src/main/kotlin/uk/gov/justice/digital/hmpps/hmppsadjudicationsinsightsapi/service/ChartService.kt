@@ -1,25 +1,22 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
-import com.google.common.base.Optional
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
-import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataDto
 
 @Service
-class ChartService {
+class ChartService(private var s3Facade: S3Facade) {
 
-  @Autowired
-  private lateinit var s3Service: S3Service
+  fun getChart(incidentId: String, chartName: String): List<ChartDataDto> {
+    val fileAsString = this.s3Facade.getFile("1a_nested_test.json")
+    val items: Map<String, List<ChartDataDto>> =
+      Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<ChartDataDto>>>() {}.type)
 
-  fun getChart(incidentId: String, chartName: String): Optional<List<ChartDataDto>> {
-    val fullChart = getS3Service().initializeChart("1a_nested_test.json")
-
-    return Optional.fromNullable(fullChart.get(incidentId))
+    return items.get(incidentId).orEmpty()
   }
-
-  fun getS3Service() = this.s3Service
 
   companion object {
     val log: Logger = LoggerFactory.getLogger(this::class.java)

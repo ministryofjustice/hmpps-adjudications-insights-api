@@ -1,32 +1,23 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import org.mockito.Mock
+import org.mockito.kotlin.any
+import org.mockito.kotlin.mock
+import org.mockito.kotlin.whenever
 
 class ChartServiceTest {
 
-  @Mock
-  private val s3Service: S3Service = S3Service()
-
-  @BeforeEach
-  @Throws(Exception::class)
-  fun setUp() {
-//    `when`(this.s3Service.initializeChart(anyString())).thenReturn(HashMap())
-  }
+  private var s3Facade: S3Facade = mock()
 
   @Test
-  fun getChart() {
-    class ChartServiceMock : ChartService() {
-      override fun getS3Service(): S3Service {
-        return s3Service
-      }
-    }
+  fun getFile() {
+    val fileContent = this::class.java.classLoader.getResource("test-data/" + "1a_test.json").readText()
 
-    val chartService = ChartServiceMock()
+    whenever(s3Facade.getFile(any())).thenReturn(fileContent)
+    val chartService = ChartService(s3Facade)
 
-    val chart = chartService.getChart("ACI", "1a_test.json")
-    assertThat(chart).isNotNull
+    val chart = chartService.getChart("ACI", "1a")
+    assertThat(chart.size).isEqualTo(12)
   }
 }
