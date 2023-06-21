@@ -30,5 +30,4 @@ class ChartServiceTest {
     val chart = chartService.getChart("ACI", "1a_test.json")
     assertThat(chart).isNotNull
   }
-
 }
