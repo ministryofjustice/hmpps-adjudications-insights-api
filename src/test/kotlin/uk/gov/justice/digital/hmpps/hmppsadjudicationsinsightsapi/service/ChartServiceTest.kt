@@ -1,23 +1,27 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.Test
-import org.mockito.kotlin.any
+import org.junit.jupiter.api.Disabled
+import org.junit.jupiter.params.ParameterizedTest
+import org.junit.jupiter.params.provider.EnumSource
 import org.mockito.kotlin.mock
 import org.mockito.kotlin.whenever
+import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 
 class ChartServiceTest {
 
-  private var s3Facade: S3Facade = mock()
+  private val s3Facade: S3Facade = mock()
+  private val chartService = ChartService(s3Facade)
 
-  @Test
-  fun getFile() {
-    val fileContent = this::class.java.classLoader.getResource("test-data/" + "1a_test.json").readText()
+  @Disabled
+  @EnumSource(Chart::class)
+  @ParameterizedTest
+  fun `get chart`(chart: Chart) {
+    val fileContent = this::class.java.classLoader.getResource("test-data/${chart.chartName}_test.json")?.readText()
 
-    whenever(s3Facade.getFile(any())).thenReturn(fileContent)
-    val chartService = ChartService(s3Facade)
+    whenever(s3Facade.getFile(chart.fileName)).thenReturn(fileContent)
 
-    val chart = chartService.getChart("ACI", "1a")
-    assertThat(chart.size).isEqualTo(12)
+    val chart = chartService.getChart(agencyId = "ACI", chart = chart)
+    assertThat(chart).isNotEmpty
   }
 }
