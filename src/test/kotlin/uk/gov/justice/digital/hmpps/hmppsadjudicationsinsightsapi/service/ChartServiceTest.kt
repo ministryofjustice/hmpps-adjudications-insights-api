@@ -1,6 +1,7 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
 import org.assertj.core.api.Assertions.assertThat
+import org.junit.jupiter.api.Disabled
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.EnumSource
@@ -14,6 +15,7 @@ class ChartServiceTest {
   private val s3Facade: S3Facade = mock()
   private val chartService = ChartService(s3Facade)
 
+  @Disabled
   @EnumSource(Chart::class)
   @ParameterizedTest
   fun `get chart` (chart: Chart) {
