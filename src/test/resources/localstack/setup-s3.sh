@@ -8,8 +8,7 @@ export PAGER=
 
 echo "S3 Configuration started"
 
-ls
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
-aws --endpoint-url=http://localhost:4566 s3 cp /tmp/localstack/test-data/ s3://mojap-adjudications-insights --recursive
+aws --endpoint-url=http://localhost:4566 s3 cp /tmp/localstack/test-data/ s3://mojap-adjudications-insights/chart --recursive
 
 echo "S3 Configured"

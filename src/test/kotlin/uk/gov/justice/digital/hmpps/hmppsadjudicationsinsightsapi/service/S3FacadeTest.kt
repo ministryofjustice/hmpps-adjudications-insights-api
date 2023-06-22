@@ -14,7 +14,7 @@ class S3FacadeTest {
   @Test
   fun testChartJson() {
     val bucketName = "some-bucket-name"
-    val fileName = "1a_test.json"
+    val fileName = "1a.json"
 
     whenever(amazonS3.getObjectAsString(eq(bucketName), eq(fileName))).thenReturn("<file content>")
 
