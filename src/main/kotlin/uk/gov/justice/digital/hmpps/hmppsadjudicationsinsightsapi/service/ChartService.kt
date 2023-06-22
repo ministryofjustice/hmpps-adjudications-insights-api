@@ -5,8 +5,8 @@ import com.google.gson.reflect.TypeToken
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
-import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
+import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataDto
 
 @Service
 class ChartService(private val s3Facade: S3Facade) {

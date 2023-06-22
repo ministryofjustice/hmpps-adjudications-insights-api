@@ -19,11 +19,12 @@ class ChartController(private val chartService: ChartService) {
   ): ChartDataResponseDto {
     val chart = chartService.getChart(
       agencyId = agencyId,
-      chart = Chart.getChart(chartName)
+      chart = Chart.getChart(chartName),
     )
     return ChartDataResponseDto(
-      agencyId =agencyId,
+      agencyId = agencyId,
       chartName = chartName,
-      chartEntries = chart)
+      chartEntries = chart,
+    )
   }
 }
