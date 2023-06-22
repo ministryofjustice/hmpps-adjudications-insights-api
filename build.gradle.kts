@@ -1,6 +1,6 @@
 plugins {
-  id("uk.gov.justice.hmpps.gradle-spring-boot") version "5.1.4"
-  kotlin("plugin.spring") version "1.8.21"
+  id("uk.gov.justice.hmpps.gradle-spring-boot") version "5.2.0"
+  kotlin("plugin.spring") version "1.8.22"
 }
 
 configurations {
@@ -12,7 +12,7 @@ dependencies {
 //  implementation("com.squareup.moshi:moshi:1.15.0")
 //  implementation("com.squareup.moshi:moshi-kotlin:1.15.0")
 //  implementation("com.squareup.moshi:moshi-adapters:1.15.0")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.491")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.493")
   implementation("io.swagger:swagger-annotations:1.6.11")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")
   implementation("com.google.code.gson:gson:2.10.1")
