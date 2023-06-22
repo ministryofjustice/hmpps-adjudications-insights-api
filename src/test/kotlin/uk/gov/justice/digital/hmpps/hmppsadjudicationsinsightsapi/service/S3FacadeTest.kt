@@ -9,7 +9,7 @@ import org.mockito.kotlin.whenever
 
 class S3FacadeTest {
 
-  private var amazonS3: AmazonS3 = mock()
+  private val amazonS3: AmazonS3 = mock()
 
   @Test
   fun testChartJson() {

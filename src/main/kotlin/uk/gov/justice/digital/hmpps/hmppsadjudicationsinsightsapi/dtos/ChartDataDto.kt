@@ -59,7 +59,7 @@ data class ChartDataDto(
 
 )
 
-enum class PronounTypes(val chartName: String, val fileName: String, val tabName: String, val description: String) {
+enum class Chart(val chartName: String, val fileName: String, val tabName: String, val description: String) {
   CHART_1A("1a", "test_chart_1a.json", "Totals - adjudications and locations", "Total adjudications - over 24 months"),
   CHART_1B("1b", "test_chart_1b.json", "Totals - adjudications and locations", "Total adjudications referred to independent adjudicator – over 24 months"),
   CHART_1C("1c", "test_chart_1c.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence - last 30 days"),
@@ -88,4 +88,8 @@ enum class PronounTypes(val chartName: String, val fileName: String, val tabName
   CHART_5B("5b", "test_chart_5b.json", "Pleas and findings", "Total adjudications by finding – current month and previous 12 months"),
   // missing
   // CHART_5C("5c", "test_chart_5c.json", "Pleas and findings", "Percentage of resolved adjudications with more than one hearing – current month and last 12 months"),
+  ;
+  companion object {
+    fun getChart(chartName: String) = Chart.values().first { it.chartName == chartName }
+  }
 }
