@@ -66,12 +66,12 @@ enum class Chart(val chartName: String, val fileName: String, val tabName: Strin
   CHART_1D("1d", "test_chart_1d.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence"),
 
   // missing
-  // CHART_1E("1e", "test_chart_1e.json", "Totals - adjudications and locations", "Total adjudications by residential location of offender – last 30 days"),
   CHART_1F("1f", "test_chart_1f.json", "Totals - adjudications and locations", "Total adjudications by residential location of offender"),
 
   CHART_2A("2a", "test_chart_2a.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners in the establishment by {{ religion }} currently"),
   CHART_2B("2b", "test_chart_2b.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners with an adjudication by {{ religion }} – last 30 days"),
-  CHART_2C("2c", "test_chart_2c.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners with an adjudication by {{ religion }} – last 6 months"),
+
+//  CHART_2C("2c", "test_chart_2c.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners with an adjudication by {{ religion }} – last 6 months"),
   CHART_2D("2d", "test_chart_2d.json", "Protected characteristics and vulnerabilities", "Offence type by protected characteristic or vulnerability - last 30 days"),
   CHART_2E("2e", "test_chart_2e.json", "Protected characteristics and vulnerabilities", "Punishment by protected characteristic or vulnerability - last 30 days"),
   CHART_2F("2f", "test_chart_2f.json", "Protected characteristics and vulnerabilities", "Plea by protected characteristic or vulnerability - last 30 days"),
