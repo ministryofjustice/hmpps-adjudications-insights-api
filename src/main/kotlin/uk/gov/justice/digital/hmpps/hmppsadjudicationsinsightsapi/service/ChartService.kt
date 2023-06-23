@@ -6,15 +6,14 @@ import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
-import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataDto
 
 @Service
 class ChartService(private val s3Facade: S3Facade) {
 
-  fun getChart(agencyId: String, chart: Chart): List<ChartDataDto> {
+  fun getChart(agencyId: String, chart: Chart): List<Map<String, Any>> {
     val fileAsString = this.s3Facade.getFile(chart.fileName)
-    val items: Map<String, List<ChartDataDto>> =
-      Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<ChartDataDto>>>() {}.type)
+    val items: Map<String, List<Map<String, Any>>> =
+      Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<Map<String, Any>>>>() {}.type)
 
     return items[agencyId].orEmpty()
   }
