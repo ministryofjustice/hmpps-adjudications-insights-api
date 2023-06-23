@@ -26,7 +26,7 @@ jobs:
             - gradle-{{ checksum "build.gradle.kts" }}
             - gradle-
       - run:
-          command: ./docker compose up -d
+          command: docker compose up -d
       - run:
           command: ./gradlew check
       - save_cache:
