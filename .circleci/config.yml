@@ -16,10 +16,12 @@ parameters:
 
 jobs:
   validate:
-    executor:
-      name: hmpps/java
-      tag: "19.0"
-    steps:
+  executor:
+    name: hmpps/localstack
+    jdk_tag: "19.0"
+    services: "s3"
+    localstack_tag: "0.14.0"
+  steps:
       - checkout
       - restore_cache:
           keys:
