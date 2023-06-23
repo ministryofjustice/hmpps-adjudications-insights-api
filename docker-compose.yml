@@ -1,17 +1,5 @@
 version: "3"
 services:
-  hmpps-adjudications-insights-api:
-    build:
-      context: .
-    network_mode: "host"
-    container_name: hmpps-adjudications-insights-api
-    ports:
-      - "8081:8080"
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8080/health/ping"]
-    environment:
-      - SERVER_PORT=8080
-      - SPRING_PROFILES_ACTIVE=dev
 
   localstack:
     image: localstack/localstack:latest
@@ -24,11 +12,11 @@ services:
       - 9080:9080
     environment:
       - SERVICES=s3
-      - PORT_WEB_UI=9080
       - DEBUG=${DEBUG- }
-      - DATA_DIR=/tmp/localstack/data
       - DOCKER_HOST=unix:///var/run/docker.sock
-      - DEFAULT_REGION=eu-west-2
+      - AWS_DEFAULT_REGION=eu-west-2
+      - AWS_SECRET_ACCESS_KEY=foobar
+      - AWS_ACCESS_KEY_ID=foobar
     volumes:
       - "./src/test/resources/test-data:/tmp/localstack/test-data"
       - "$PWD/src/test/resources/localstack/setup-s3.sh:/etc/localstack/init/ready.d/init-aws.sh"
