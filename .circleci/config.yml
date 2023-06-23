@@ -19,8 +19,8 @@ jobs:
   executor:
     name: hmpps/localstack
     jdk_tag: "19.0"
-    services: "s3"
-    localstack_tag: "0.14.0"
+    services: s3
+    localstack_tag: "2.1.0"
   steps:
       - checkout
       - restore_cache:
