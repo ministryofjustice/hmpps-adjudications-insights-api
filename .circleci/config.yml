@@ -29,10 +29,10 @@ jobs:
           name: Wait for localstack to start before creating resources
           command: curl -4 --connect-timeout 30 --retry-connrefused --retry 20 --retry-delay 5 http://localhost:4566
     - run:
-          name: Set up bucket
-          command: ./src/test/resources/localstack/setup-s3.sh
-          environment:
-            LOCALSTACK_TMP_FOLDER: ./src/test/resources/test-data/
+        name: Set up bucket
+        command: |
+          export LOCALSTACK_TMP_FOLDER="./src/test/resources/test-data/"
+          ./src/test/resources/localstack/setup-s3.sh
     - restore_cache:
         keys:
           - gradle-{{ checksum "build.gradle.kts" }}
