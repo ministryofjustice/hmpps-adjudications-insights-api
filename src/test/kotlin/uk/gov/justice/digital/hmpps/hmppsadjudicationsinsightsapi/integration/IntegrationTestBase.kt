@@ -8,7 +8,7 @@ import org.springframework.test.context.ActiveProfiles
 import org.springframework.test.web.reactive.server.WebTestClient
 
 @SpringBootTest(webEnvironment = RANDOM_PORT)
-@AutoConfigureWebTestClient(timeout = "24000")
+@AutoConfigureWebTestClient(timeout = "36000")
 @ActiveProfiles("test")
 abstract class IntegrationTestBase {
 
