@@ -20,7 +20,7 @@ data class ChartDataResponseDto(
   @Schema(
     description = "List of chart data details",
   )
-  val chartEntries: List<ChartDataDto>,
+  val chartEntries: List<Map<String, Any>>,
 
 )
 

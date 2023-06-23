@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test
 import org.mockito.kotlin.any
 import org.mockito.kotlin.whenever
 import org.springframework.boot.test.mock.mockito.MockBean
-import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service.ChartService
 
 class ChartControllerTest : IntegrationTestBase() {
@@ -22,8 +21,12 @@ class ChartControllerTest : IntegrationTestBase() {
       ),
     ).thenReturn(
       listOf(
-        ChartDataDto(1, 2023, 2022, 50, 40),
-        ChartDataDto(12, 2022, 2023, 55, 45),
+        mapOf(
+          "some-key" to 2022,
+        ),
+        mapOf(
+          "some-key" to 2023,
+        ),
       ),
     )
   }
