@@ -10,12 +10,17 @@ parameters:
   releases-slack-channel:
     type: string
     default: dps-releases
+  localstack-version:
+    type: string
+    default: "2.0"
 
 jobs:
   validate:
     executor:
-      name: hmpps/java
-      tag: "19.0"
+      name: hmpps/java_localstack_postgres
+      jdk_tag: << pipeline.parameters.java-version >>
+      localstack_tag: << pipeline.parameters.localstack-version >>
+      services: "s3"
     steps:
       - checkout
       - restore_cache:
