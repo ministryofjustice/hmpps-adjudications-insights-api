@@ -13,5 +13,26 @@ services:
       - SERVER_PORT=8080
       - SPRING_PROFILES_ACTIVE=dev
 
+  localstack:
+    image: localstack/localstack:latest
+    networks:
+      - hmpps
+    container_name: localstack
+    ports:
+      - "4566-4597:4566-4597"
+      - 8999:8080
+      - 9080:9080
+    environment:
+      - SERVICES=s3
+      - PORT_WEB_UI=9080
+      - DEBUG=${DEBUG- }
+      - DATA_DIR=/tmp/localstack/data
+      - DOCKER_HOST=unix:///var/run/docker.sock
+      - DEFAULT_REGION=eu-west-2
+    volumes:
+      - "./src/test/resources/test-data:/tmp/localstack/test-data"
+      - "$PWD/src/test/resources/localstack/setup-s3.sh:/etc/localstack/init/ready.d/init-aws.sh"
+      - "/var/run/docker.sock:/var/run/docker.sock"
+
 networks:
   hmpps:

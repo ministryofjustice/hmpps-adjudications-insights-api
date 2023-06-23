@@ -9,10 +9,7 @@ configurations {
 
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-webflux")
-//  implementation("com.squareup.moshi:moshi:1.15.0")
-//  implementation("com.squareup.moshi:moshi-kotlin:1.15.0")
-//  implementation("com.squareup.moshi:moshi-adapters:1.15.0")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.493")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.494")
   implementation("io.swagger:swagger-annotations:1.6.11")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")
   implementation("com.google.code.gson:gson:2.10.1")

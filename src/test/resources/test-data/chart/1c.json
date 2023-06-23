@@ -1,0 +1,870 @@
+{
+  "ACI": [
+    {
+      "count": 57,
+      "proportion": 0.20653499945450987,
+      "proportion_round": 0.21
+    }
+  ],
+  "AGI": [
+    {
+      "count": 50,
+      "proportion": 0.3096936222818963,
+      "proportion_round": 0.31
+    }
+  ],
+  "ASI": [
+    {
+      "count": 4,
+      "proportion": 0.33683194439010017,
+      "proportion_round": 0.34
+    }
+  ],
+  "AYI": [
+    {
+      "count": 11,
+      "proportion": 0.13849499426916412,
+      "proportion_round": 0.14
+    }
+  ],
+  "BAI": [
+    {
+      "count": 40,
+      "proportion": 0.3108851332115439,
+      "proportion_round": 0.31
+    }
+  ],
+  "BCI": [
+    {
+      "count": 95,
+      "proportion": 0.4033512281616058,
+      "proportion_round": 0.4
+    }
+  ],
+  "BFI": [
+    {
+      "count": 13,
+      "proportion": 0.07757093924650516,
+      "proportion_round": 0.08
+    }
+  ],
+  "BLI": [
+    {
+      "count": 32,
+      "proportion": 0.44173428977599205,
+      "proportion_round": 0.44
+    }
+  ],
+  "BMI": [
+    {
+      "count": 28,
+      "proportion": 0.41073387565628405,
+      "proportion_round": 0.41
+    }
+  ],
+  "BNI": [
+    {
+      "count": 92,
+      "proportion": 0.22282997484556022,
+      "proportion_round": 0.22
+    }
+  ],
+  "BRI": [
+    {
+      "count": 91,
+      "proportion": 0.26672366878099774,
+      "proportion_round": 0.27
+    }
+  ],
+  "BSI": [
+    {
+      "count": 65,
+      "proportion": 0.4716421930875585,
+      "proportion_round": 0.47
+    }
+  ],
+  "BWI": [
+    {
+      "count": 97,
+      "proportion": 0.17067159540199978,
+      "proportion_round": 0.17
+    }
+  ],
+  "BXI": [
+    {
+      "count": 43,
+      "proportion": 0.280229230033696,
+      "proportion_round": 0.28
+    }
+  ],
+  "BZI": [
+    {
+      "count": 33,
+      "proportion": 0.36756712579272494,
+      "proportion_round": 0.37
+    }
+  ],
+  "CDI": [
+    {
+      "count": 20,
+      "proportion": 0.14826303411363512,
+      "proportion_round": 0.15
+    }
+  ],
+  "CFI": [
+    {
+      "count": 1,
+      "proportion": 0.20295371801211265,
+      "proportion_round": 0.2
+    }
+  ],
+  "CKI": [
+    {
+      "count": 36,
+      "proportion": 0.38737196972893023,
+      "proportion_round": 0.39
+    }
+  ],
+  "CLI": [
+    {
+      "count": 96,
+      "proportion": 0.3698908239808372,
+      "proportion_round": 0.37
+    }
+  ],
+  "CWI": [
+    {
+      "count": 79,
+      "proportion": 0.27236277591277847,
+      "proportion_round": 0.27
+    }
+  ],
+  "DAI": [
+    {
+      "count": 57,
+      "proportion": 0.02509511417305027,
+      "proportion_round": 0.03
+    }
+  ],
+  "DGI": [
+    {
+      "count": 18,
+      "proportion": 0.12460385224550863,
+      "proportion_round": 0.12
+    }
+  ],
+  "DHI": [
+    {
+      "count": 87,
+      "proportion": 0.10773212951704048,
+      "proportion_round": 0.11
+    }
+  ],
+  "DMI": [
+    {
+      "count": 10,
+      "proportion": 0.1723886753848079,
+      "proportion_round": 0.17
+    }
+  ],
+  "DNI": [
+    {
+      "count": 64,
+      "proportion": 0.08733077572890813,
+      "proportion_round": 0.09
+    }
+  ],
+  "DTI": [
+    {
+      "count": 31,
+      "proportion": 0.13967716986026896,
+      "proportion_round": 0.14
+    }
+  ],
+  "DWI": [
+    {
+      "count": 15,
+      "proportion": 0.09468018213295454,
+      "proportion_round": 0.09
+    }
+  ],
+  "EEI": [
+    {
+      "count": 50,
+      "proportion": 0.012617219631167298,
+      "proportion_round": 0.01
+    }
+  ],
+  "EHI": [
+    {
+      "count": 61,
+      "proportion": 0.1487382135510037,
+      "proportion_round": 0.15
+    }
+  ],
+  "ESI": [
+    {
+      "count": 98,
+      "proportion": 0.1441507427123357,
+      "proportion_round": 0.14
+    }
+  ],
+  "EWI": [
+    {
+      "count": 39,
+      "proportion": 0.21877465588473988,
+      "proportion_round": 0.22
+    }
+  ],
+  "EXI": [
+    {
+      "count": 88,
+      "proportion": 0.4705079193305577,
+      "proportion_round": 0.47
+    }
+  ],
+  "EYI": [
+    {
+      "count": 77,
+      "proportion": 0.2758539334890677,
+      "proportion_round": 0.28
+    }
+  ],
+  "FBI": [
+    {
+      "count": 39,
+      "proportion": 0.20395315860740576,
+      "proportion_round": 0.2
+    }
+  ],
+  "FDI": [
+    {
+      "count": 83,
+      "proportion": 0.019669895218713707,
+      "proportion_round": 0.02
+    }
+  ],
+  "FHI": [
+    {
+      "count": 6,
+      "proportion": 0.1925678257619582,
+      "proportion_round": 0.19
+    }
+  ],
+  "FKI": [
+    {
+      "count": 44,
+      "proportion": 0.17981743890458013,
+      "proportion_round": 0.18
+    }
+  ],
+  "FMI": [
+    {
+      "count": 90,
+      "proportion": 0.11058500085874357,
+      "proportion_round": 0.11
+    }
+  ],
+  "FNI": [
+    {
+      "count": 5,
+      "proportion": 0.15106539441606637,
+      "proportion_round": 0.15
+    }
+  ],
+  "FSI": [
+    {
+      "count": 33,
+      "proportion": 0.07539410323851037,
+      "proportion_round": 0.08
+    }
+  ],
+  "FWI": [
+    {
+      "count": 7,
+      "proportion": 0.14001900723076904,
+      "proportion_round": 0.14
+    }
+  ],
+  "FYI": [
+    {
+      "count": 32,
+      "proportion": 0.44162393717147086,
+      "proportion_round": 0.44
+    }
+  ],
+  "GHI": [
+    {
+      "count": 10,
+      "proportion": 0.21187370732540312,
+      "proportion_round": 0.21
+    }
+  ],
+  "GMI": [
+    {
+      "count": 71,
+      "proportion": 0.2776449746771684,
+      "proportion_round": 0.28
+    }
+  ],
+  "GNI": [
+    {
+      "count": 76,
+      "proportion": 0.2530834047323446,
+      "proportion_round": 0.25
+    }
+  ],
+  "GTI": [
+    {
+      "count": 43,
+      "proportion": 0.2512908731692111,
+      "proportion_round": 0.25
+    }
+  ],
+  "HBI": [
+    {
+      "count": 27,
+      "proportion": 0.22213907309144043,
+      "proportion_round": 0.22
+    }
+  ],
+  "HCI": [
+    {
+      "count": 85,
+      "proportion": 0.17500701778688038,
+      "proportion_round": 0.18
+    }
+  ],
+  "HDI": [
+    {
+      "count": 22,
+      "proportion": 0.3546510927271573,
+      "proportion_round": 0.35
+    }
+  ],
+  "HEI": [
+    {
+      "count": 81,
+      "proportion": 0.14048051099550285,
+      "proportion_round": 0.14
+    }
+  ],
+  "HHI": [
+    {
+      "count": 20,
+      "proportion": 0.27058040101550107,
+      "proportion_round": 0.27
+    }
+  ],
+  "HII": [
+    {
+      "count": 97,
+      "proportion": 0.34730607392969065,
+      "proportion_round": 0.35
+    }
+  ],
+  "HLI": [
+    {
+      "count": 56,
+      "proportion": 0.0990605267013262,
+      "proportion_round": 0.1
+    }
+  ],
+  "HMI": [
+    {
+      "count": 28,
+      "proportion": 0.024543326114884356,
+      "proportion_round": 0.02
+    }
+  ],
+  "HOI": [
+    {
+      "count": 53,
+      "proportion": 0.3038485975126482,
+      "proportion_round": 0.3
+    }
+  ],
+  "HPI": [
+    {
+      "count": 23,
+      "proportion": 0.2052019899268846,
+      "proportion_round": 0.21
+    }
+  ],
+  "HVI": [
+    {
+      "count": 30,
+      "proportion": 0.41690503529850376,
+      "proportion_round": 0.42
+    }
+  ],
+  "ISI": [
+    {
+      "count": 63,
+      "proportion": 0.04471402976178901,
+      "proportion_round": 0.04
+    }
+  ],
+  "IWI": [
+    {
+      "count": 72,
+      "proportion": 0.27508395617025766,
+      "proportion_round": 0.28
+    }
+  ],
+  "KMI": [
+    {
+      "count": 71,
+      "proportion": 0.06606805505131841,
+      "proportion_round": 0.07
+    }
+  ],
+  "KVI": [
+    {
+      "count": 0,
+      "proportion": 0.3582232869153256,
+      "proportion_round": 0.36
+    }
+  ],
+  "LCI": [
+    {
+      "count": 79,
+      "proportion": 0.3773089223618707,
+      "proportion_round": 0.38
+    }
+  ],
+  "LEI": [
+    {
+      "count": 63,
+      "proportion": 0.1539056310135581,
+      "proportion_round": 0.15
+    }
+  ],
+  "LFI": [
+    {
+      "count": 56,
+      "proportion": 0.30595782383705805,
+      "proportion_round": 0.31
+    }
+  ],
+  "LGI": [
+    {
+      "count": 84,
+      "proportion": 0.45471732728090036,
+      "proportion_round": 0.45
+    }
+  ],
+  "LHI": [
+    {
+      "count": 92,
+      "proportion": 0.46130815504611544,
+      "proportion_round": 0.46
+    }
+  ],
+  "LII": [
+    {
+      "count": 80,
+      "proportion": 0.20146521956420338,
+      "proportion_round": 0.2
+    }
+  ],
+  "LLI": [
+    {
+      "count": 97,
+      "proportion": 0.4352077356498289,
+      "proportion_round": 0.44
+    }
+  ],
+  "LNI": [
+    {
+      "count": 96,
+      "proportion": 0.1412196142592057,
+      "proportion_round": 0.14
+    }
+  ],
+  "LPI": [
+    {
+      "count": 89,
+      "proportion": 0.3690574746279291,
+      "proportion_round": 0.37
+    }
+  ],
+  "LTI": [
+    {
+      "count": 64,
+      "proportion": 0.2011161247586093,
+      "proportion_round": 0.2
+    }
+  ],
+  "LWI": [
+    {
+      "count": 65,
+      "proportion": 0.44528357896509224,
+      "proportion_round": 0.45
+    }
+  ],
+  "LYI": [
+    {
+      "count": 7,
+      "proportion": 0.11416749528504427,
+      "proportion_round": 0.11
+    }
+  ],
+  "MDI": [
+    {
+      "count": 55,
+      "proportion": 0.11910779024541196,
+      "proportion_round": 0.12
+    }
+  ],
+  "MHI": [
+    {
+      "count": 28,
+      "proportion": 0.06102326771496969,
+      "proportion_round": 0.06
+    }
+  ],
+  "MRI": [
+    {
+      "count": 10,
+      "proportion": 0.48623242839988434,
+      "proportion_round": 0.49
+    }
+  ],
+  "MSI": [
+    {
+      "count": 27,
+      "proportion": 0.4705476612681662,
+      "proportion_round": 0.47
+    }
+  ],
+  "MTI": [
+    {
+      "count": 54,
+      "proportion": 0.3104147319613733,
+      "proportion_round": 0.31
+    }
+  ],
+  "NHI": [
+    {
+      "count": 77,
+      "proportion": 0.05018022189103344,
+      "proportion_round": 0.05
+    }
+  ],
+  "NLI": [
+    {
+      "count": 1,
+      "proportion": 0.4053232775010938,
+      "proportion_round": 0.41
+    }
+  ],
+  "NMI": [
+    {
+      "count": 26,
+      "proportion": 0.3577207684994591,
+      "proportion_round": 0.36
+    }
+  ],
+  "NSI": [
+    {
+      "count": 87,
+      "proportion": 0.20744011375222743,
+      "proportion_round": 0.21
+    }
+  ],
+  "NWI": [
+    {
+      "count": 41,
+      "proportion": 0.4111675732353047,
+      "proportion_round": 0.41
+    }
+  ],
+  "ONI": [
+    {
+      "count": 51,
+      "proportion": 0.24889391287119766,
+      "proportion_round": 0.25
+    }
+  ],
+  "OWI": [
+    {
+      "count": 68,
+      "proportion": 0.27702074996507414,
+      "proportion_round": 0.28
+    }
+  ],
+  "PBI": [
+    {
+      "count": 12,
+      "proportion": 0.4928150445090297,
+      "proportion_round": 0.49
+    }
+  ],
+  "PDI": [
+    {
+      "count": 20,
+      "proportion": 0.41319728349157225,
+      "proportion_round": 0.41
+    }
+  ],
+  "PFI": [
+    {
+      "count": 67,
+      "proportion": 0.18176189136931503,
+      "proportion_round": 0.18
+    }
+  ],
+  "PNI": [
+    {
+      "count": 15,
+      "proportion": 0.12703547031842166,
+      "proportion_round": 0.13
+    }
+  ],
+  "PRI": [
+    {
+      "count": 2,
+      "proportion": 0.00854568053413024,
+      "proportion_round": 0.01
+    }
+  ],
+  "PVI": [
+    {
+      "count": 88,
+      "proportion": 0.3234910952988997,
+      "proportion_round": 0.32
+    }
+  ],
+  "PYI": [
+    {
+      "count": 94,
+      "proportion": 0.3990092368216112,
+      "proportion_round": 0.4
+    }
+  ],
+  "RCI": [
+    {
+      "count": 1,
+      "proportion": 0.09725733127539593,
+      "proportion_round": 0.1
+    }
+  ],
+  "RHI": [
+    {
+      "count": 50,
+      "proportion": 0.07968458385405697,
+      "proportion_round": 0.08
+    }
+  ],
+  "RNI": [
+    {
+      "count": 15,
+      "proportion": 0.11454663424301736,
+      "proportion_round": 0.11
+    }
+  ],
+  "RSI": [
+    {
+      "count": 35,
+      "proportion": 0.14181723789371836,
+      "proportion_round": 0.14
+    }
+  ],
+  "SDI": [
+    {
+      "count": 89,
+      "proportion": 0.2326856784788125,
+      "proportion_round": 0.23
+    }
+  ],
+  "SFI": [
+    {
+      "count": 36,
+      "proportion": 0.38996888595504037,
+      "proportion_round": 0.39
+    }
+  ],
+  "SHI": [
+    {
+      "count": 81,
+      "proportion": 0.2559407685854755,
+      "proportion_round": 0.26
+    }
+  ],
+  "SKI": [
+    {
+      "count": 32,
+      "proportion": 0.05525791190379531,
+      "proportion_round": 0.06
+    }
+  ],
+  "SLI": [
+    {
+      "count": 72,
+      "proportion": 0.3624819348049653,
+      "proportion_round": 0.36
+    }
+  ],
+  "SNI": [
+    {
+      "count": 2,
+      "proportion": 0.17242668030284314,
+      "proportion_round": 0.17
+    }
+  ],
+  "SPI": [
+    {
+      "count": 35,
+      "proportion": 0.44417753041077435,
+      "proportion_round": 0.44
+    }
+  ],
+  "STI": [
+    {
+      "count": 62,
+      "proportion": 0.0708621318374501,
+      "proportion_round": 0.07
+    }
+  ],
+  "SUI": [
+    {
+      "count": 42,
+      "proportion": 0.4762957272720597,
+      "proportion_round": 0.48
+    }
+  ],
+  "SWI": [
+    {
+      "count": 38,
+      "proportion": 0.3939218724480641,
+      "proportion_round": 0.39
+    }
+  ],
+  "TCI": [
+    {
+      "count": 1,
+      "proportion": 0.30277466961927285,
+      "proportion_round": 0.3
+    }
+  ],
+  "TSI": [
+    {
+      "count": 33,
+      "proportion": 0.2880931101409718,
+      "proportion_round": 0.29
+    }
+  ],
+  "UKI": [
+    {
+      "count": 51,
+      "proportion": 0.37224325051069934,
+      "proportion_round": 0.37
+    }
+  ],
+  "UPI": [
+    {
+      "count": 44,
+      "proportion": 0.2371670590193115,
+      "proportion_round": 0.24
+    }
+  ],
+  "VEI": [
+    {
+      "count": 63,
+      "proportion": 0.054152151498995604,
+      "proportion_round": 0.05
+    }
+  ],
+  "WCI": [
+    {
+      "count": 16,
+      "proportion": 0.10916914789971194,
+      "proportion_round": 0.11
+    }
+  ],
+  "WDI": [
+    {
+      "count": 89,
+      "proportion": 0.257298045940241,
+      "proportion_round": 0.26
+    }
+  ],
+  "WEI": [
+    {
+      "count": 14,
+      "proportion": 0.3920488499639374,
+      "proportion_round": 0.39
+    }
+  ],
+  "WHI": [
+    {
+      "count": 56,
+      "proportion": 0.05733319296946676,
+      "proportion_round": 0.06
+    }
+  ],
+  "WII": [
+    {
+      "count": 1,
+      "proportion": 0.31596679426374963,
+      "proportion_round": 0.32
+    }
+  ],
+  "WLI": [
+    {
+      "count": 78,
+      "proportion": 0.3425493866395573,
+      "proportion_round": 0.34
+    }
+  ],
+  "WMI": [
+    {
+      "count": 9,
+      "proportion": 0.38337224316435853,
+      "proportion_round": 0.38
+    }
+  ],
+  "WNI": [
+    {
+      "count": 91,
+      "proportion": 0.43293537317567193,
+      "proportion_round": 0.43
+    }
+  ],
+  "WRI": [
+    {
+      "count": 89,
+      "proportion": 0.09667818432039821,
+      "proportion_round": 0.1
+    }
+  ],
+  "WSI": [
+    {
+      "count": 17,
+      "proportion": 0.24902905990058377,
+      "proportion_round": 0.25
+    }
+  ],
+  "WTI": [
+    {
+      "count": 9,
+      "proportion": 0.04021197186208475,
+      "proportion_round": 0.04
+    }
+  ],
+  "WWI": [
+    {
+      "count": 58,
+      "proportion": 0.1788010301327178,
+      "proportion_round": 0.18
+    }
+  ],
+  "WYI": [
+    {
+      "count": 65,
+      "proportion": 0.47593431408165704,
+      "proportion_round": 0.48
+    }
+  ]
+}

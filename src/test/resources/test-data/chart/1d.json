@@ -1,0 +1,2482 @@
+{
+  "ACI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 20,
+      "proportion": 0.12345679012345678,
+      "proportion_round": 0.12
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 91,
+      "proportion": 0.5617283950617284,
+      "proportion_round": 0.56
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 51,
+      "proportion": 0.3148148148148148,
+      "proportion_round": 0.31
+    }
+  ],
+  "AGI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.6,
+      "proportion_round": 0.6
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 27,
+      "proportion": 0.2,
+      "proportion_round": 0.2
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 27,
+      "proportion": 0.2,
+      "proportion_round": 0.2
+    }
+  ],
+  "ASI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 79,
+      "proportion": 0.4817073170731707,
+      "proportion_round": 0.48
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 57,
+      "proportion": 0.3475609756097561,
+      "proportion_round": 0.35
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 28,
+      "proportion": 0.17073170731707318,
+      "proportion_round": 0.17
+    }
+  ],
+  "AYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 22,
+      "proportion": 0.18803418803418803,
+      "proportion_round": 0.19
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 78,
+      "proportion": 0.6666666666666666,
+      "proportion_round": 0.67
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 17,
+      "proportion": 0.1452991452991453,
+      "proportion_round": 0.15
+    }
+  ],
+  "BAI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 91,
+      "proportion": 0.6026490066225165,
+      "proportion_round": 0.6
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 10,
+      "proportion": 0.06622516556291391,
+      "proportion_round": 0.07
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 50,
+      "proportion": 0.33112582781456956,
+      "proportion_round": 0.33
+    }
+  ],
+  "BCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 52,
+      "proportion": 0.2988505747126437,
+      "proportion_round": 0.3
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 49,
+      "proportion": 0.28160919540229884,
+      "proportion_round": 0.28
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 73,
+      "proportion": 0.41954022988505746,
+      "proportion_round": 0.42
+    }
+  ],
+  "BFI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.011904761904761904,
+      "proportion_round": 0.01
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.47619047619047616,
+      "proportion_round": 0.48
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 86,
+      "proportion": 0.5119047619047619,
+      "proportion_round": 0.51
+    }
+  ],
+  "BLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 5,
+      "proportion": 0.056818181818181816,
+      "proportion_round": 0.06
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 28,
+      "proportion": 0.3181818181818182,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 55,
+      "proportion": 0.625,
+      "proportion_round": 0.62
+    }
+  ],
+  "BMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 88,
+      "proportion": 0.4861878453038674,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 40,
+      "proportion": 0.22099447513812154,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 53,
+      "proportion": 0.292817679558011,
+      "proportion_round": 0.29
+    }
+  ],
+  "BNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 7,
+      "proportion": 0.0707070707070707,
+      "proportion_round": 0.07
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 37,
+      "proportion": 0.37373737373737376,
+      "proportion_round": 0.37
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 55,
+      "proportion": 0.5555555555555556,
+      "proportion_round": 0.56
+    }
+  ],
+  "BRI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 53,
+      "proportion": 0.2409090909090909,
+      "proportion_round": 0.24
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 88,
+      "proportion": 0.4,
+      "proportion_round": 0.4
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 79,
+      "proportion": 0.35909090909090907,
+      "proportion_round": 0.36
+    }
+  ],
+  "BSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 74,
+      "proportion": 0.3474178403755869,
+      "proportion_round": 0.35
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 94,
+      "proportion": 0.4413145539906103,
+      "proportion_round": 0.44
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 45,
+      "proportion": 0.2112676056338028,
+      "proportion_round": 0.21
+    }
+  ],
+  "BWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 41,
+      "proportion": 0.22282608695652173,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.43478260869565216,
+      "proportion_round": 0.43
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 63,
+      "proportion": 0.3423913043478261,
+      "proportion_round": 0.34
+    }
+  ],
+  "BXI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 45,
+      "proportion": 0.35714285714285715,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 77,
+      "proportion": 0.6111111111111112,
+      "proportion_round": 0.61
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 4,
+      "proportion": 0.031746031746031744,
+      "proportion_round": 0.03
+    }
+  ],
+  "BZI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 75,
+      "proportion": 0.3393665158371041,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 49,
+      "proportion": 0.22171945701357465,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 97,
+      "proportion": 0.43891402714932126,
+      "proportion_round": 0.44
+    }
+  ],
+  "CDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 33,
+      "proportion": 0.28205128205128205,
+      "proportion_round": 0.28
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 20,
+      "proportion": 0.17094017094017094,
+      "proportion_round": 0.17
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 64,
+      "proportion": 0.5470085470085471,
+      "proportion_round": 0.55
+    }
+  ],
+  "CFI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 34,
+      "proportion": 0.23448275862068965,
+      "proportion_round": 0.23
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 67,
+      "proportion": 0.46206896551724136,
+      "proportion_round": 0.46
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 44,
+      "proportion": 0.30344827586206896,
+      "proportion_round": 0.3
+    }
+  ],
+  "CKI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 14,
+      "proportion": 0.11475409836065574,
+      "proportion_round": 0.11
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 60,
+      "proportion": 0.4918032786885246,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 48,
+      "proportion": 0.39344262295081966,
+      "proportion_round": 0.39
+    }
+  ],
+  "CLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 78,
+      "proportion": 0.43333333333333335,
+      "proportion_round": 0.43
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 93,
+      "proportion": 0.5166666666666667,
+      "proportion_round": 0.52
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 9,
+      "proportion": 0.05,
+      "proportion_round": 0.05
+    }
+  ],
+  "CWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 31,
+      "proportion": 0.2080536912751678,
+      "proportion_round": 0.21
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 34,
+      "proportion": 0.22818791946308725,
+      "proportion_round": 0.23
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 84,
+      "proportion": 0.5637583892617449,
+      "proportion_round": 0.56
+    }
+  ],
+  "DAI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 67,
+      "proportion": 0.3582887700534759,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 69,
+      "proportion": 0.3689839572192513,
+      "proportion_round": 0.37
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 51,
+      "proportion": 0.2727272727272727,
+      "proportion_round": 0.27
+    }
+  ],
+  "DGI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 86,
+      "proportion": 0.31272727272727274,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 94,
+      "proportion": 0.3418181818181818,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 95,
+      "proportion": 0.34545454545454546,
+      "proportion_round": 0.35
+    }
+  ],
+  "DHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 99,
+      "proportion": 0.6111111111111112,
+      "proportion_round": 0.61
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 50,
+      "proportion": 0.30864197530864196,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 13,
+      "proportion": 0.08024691358024691,
+      "proportion_round": 0.08
+    }
+  ],
+  "DMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 3,
+      "proportion": 0.07894736842105263,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 20,
+      "proportion": 0.5263157894736842,
+      "proportion_round": 0.53
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.39473684210526316,
+      "proportion_round": 0.39
+    }
+  ],
+  "DNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 18,
+      "proportion": 0.18,
+      "proportion_round": 0.18
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 15,
+      "proportion": 0.15,
+      "proportion_round": 0.15
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 67,
+      "proportion": 0.67,
+      "proportion_round": 0.67
+    }
+  ],
+  "DTI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 20,
+      "proportion": 0.12578616352201258,
+      "proportion_round": 0.13
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 73,
+      "proportion": 0.4591194968553459,
+      "proportion_round": 0.46
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 66,
+      "proportion": 0.41509433962264153,
+      "proportion_round": 0.42
+    }
+  ],
+  "DWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 15,
+      "proportion": 0.09740259740259741,
+      "proportion_round": 0.1
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 40,
+      "proportion": 0.2597402597402597,
+      "proportion_round": 0.26
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 99,
+      "proportion": 0.6428571428571429,
+      "proportion_round": 0.64
+    }
+  ],
+  "EEI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.6103896103896104,
+      "proportion_round": 0.61
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 20,
+      "proportion": 0.12987012987012986,
+      "proportion_round": 0.13
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 40,
+      "proportion": 0.2597402597402597,
+      "proportion_round": 0.26
+    }
+  ],
+  "EHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 92,
+      "proportion": 0.45098039215686275,
+      "proportion_round": 0.45
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 96,
+      "proportion": 0.47058823529411764,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 16,
+      "proportion": 0.0784313725490196,
+      "proportion_round": 0.08
+    }
+  ],
+  "ESI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 96,
+      "proportion": 0.5748502994011976,
+      "proportion_round": 0.57
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 8,
+      "proportion": 0.04790419161676647,
+      "proportion_round": 0.05
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 63,
+      "proportion": 0.3772455089820359,
+      "proportion_round": 0.38
+    }
+  ],
+  "EWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 68,
+      "proportion": 0.31627906976744186,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 93,
+      "proportion": 0.4325581395348837,
+      "proportion_round": 0.43
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 54,
+      "proportion": 0.25116279069767444,
+      "proportion_round": 0.25
+    }
+  ],
+  "EXI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 62,
+      "proportion": 0.38509316770186336,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 18,
+      "proportion": 0.11180124223602485,
+      "proportion_round": 0.11
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 81,
+      "proportion": 0.5031055900621118,
+      "proportion_round": 0.5
+    }
+  ],
+  "EYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 99,
+      "proportion": 0.46919431279620855,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 35,
+      "proportion": 0.16587677725118483,
+      "proportion_round": 0.17
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 77,
+      "proportion": 0.36492890995260663,
+      "proportion_round": 0.36
+    }
+  ],
+  "FBI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 54,
+      "proportion": 0.39416058394160586,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 35,
+      "proportion": 0.25547445255474455,
+      "proportion_round": 0.26
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 48,
+      "proportion": 0.35036496350364965,
+      "proportion_round": 0.35
+    }
+  ],
+  "FDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 64,
+      "proportion": 0.3033175355450237,
+      "proportion_round": 0.3
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 92,
+      "proportion": 0.43601895734597157,
+      "proportion_round": 0.44
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 55,
+      "proportion": 0.26066350710900477,
+      "proportion_round": 0.26
+    }
+  ],
+  "FHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 50,
+      "proportion": 0.3105590062111801,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 83,
+      "proportion": 0.515527950310559,
+      "proportion_round": 0.52
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 28,
+      "proportion": 0.17391304347826086,
+      "proportion_round": 0.17
+    }
+  ],
+  "FKI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 10,
+      "proportion": 0.08928571428571429,
+      "proportion_round": 0.09
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 70,
+      "proportion": 0.625,
+      "proportion_round": 0.62
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 32,
+      "proportion": 0.2857142857142857,
+      "proportion_round": 0.29
+    }
+  ],
+  "FMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 64,
+      "proportion": 0.26666666666666666,
+      "proportion_round": 0.27
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 92,
+      "proportion": 0.38333333333333336,
+      "proportion_round": 0.38
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 84,
+      "proportion": 0.35,
+      "proportion_round": 0.35
+    }
+  ],
+  "FNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 20,
+      "proportion": 0.12269938650306748,
+      "proportion_round": 0.12
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 99,
+      "proportion": 0.6073619631901841,
+      "proportion_round": 0.61
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 44,
+      "proportion": 0.26993865030674846,
+      "proportion_round": 0.27
+    }
+  ],
+  "FSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 84,
+      "proportion": 0.5419354838709678,
+      "proportion_round": 0.54
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 13,
+      "proportion": 0.08387096774193549,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 58,
+      "proportion": 0.3741935483870968,
+      "proportion_round": 0.37
+    }
+  ],
+  "FWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.31640625,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 92,
+      "proportion": 0.359375,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 83,
+      "proportion": 0.32421875,
+      "proportion_round": 0.32
+    }
+  ],
+  "FYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 11,
+      "proportion": 0.07971014492753623,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 87,
+      "proportion": 0.6304347826086957,
+      "proportion_round": 0.63
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 40,
+      "proportion": 0.2898550724637681,
+      "proportion_round": 0.29
+    }
+  ],
+  "GHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 35,
+      "proportion": 0.1794871794871795,
+      "proportion_round": 0.18
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 78,
+      "proportion": 0.4,
+      "proportion_round": 0.4
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 82,
+      "proportion": 0.4205128205128205,
+      "proportion_round": 0.42
+    }
+  ],
+  "GMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 26,
+      "proportion": 0.28888888888888886,
+      "proportion_round": 0.29
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 28,
+      "proportion": 0.3111111111111111,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 36,
+      "proportion": 0.4,
+      "proportion_round": 0.4
+    }
+  ],
+  "GNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.018691588785046728,
+      "proportion_round": 0.02
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 44,
+      "proportion": 0.411214953271028,
+      "proportion_round": 0.41
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 61,
+      "proportion": 0.5700934579439252,
+      "proportion_round": 0.57
+    }
+  ],
+  "GTI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 72,
+      "proportion": 0.47368421052631576,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 62,
+      "proportion": 0.40789473684210525,
+      "proportion_round": 0.41
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 18,
+      "proportion": 0.11842105263157894,
+      "proportion_round": 0.12
+    }
+  ],
+  "HBI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 53,
+      "proportion": 0.3419354838709677,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 73,
+      "proportion": 0.47096774193548385,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 29,
+      "proportion": 0.1870967741935484,
+      "proportion_round": 0.19
+    }
+  ],
+  "HCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 12,
+      "proportion": 0.13636363636363635,
+      "proportion_round": 0.14
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 0,
+      "proportion": 0.0,
+      "proportion_round": 0.0
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 76,
+      "proportion": 0.8636363636363636,
+      "proportion_round": 0.86
+    }
+  ],
+  "HDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 39,
+      "proportion": 0.41935483870967744,
+      "proportion_round": 0.42
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 7,
+      "proportion": 0.07526881720430108,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 47,
+      "proportion": 0.5053763440860215,
+      "proportion_round": 0.51
+    }
+  ],
+  "HEI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 69,
+      "proportion": 0.3612565445026178,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 93,
+      "proportion": 0.4869109947643979,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 29,
+      "proportion": 0.1518324607329843,
+      "proportion_round": 0.15
+    }
+  ],
+  "HHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 39,
+      "proportion": 0.20103092783505155,
+      "proportion_round": 0.2
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 87,
+      "proportion": 0.4484536082474227,
+      "proportion_round": 0.45
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 68,
+      "proportion": 0.35051546391752575,
+      "proportion_round": 0.35
+    }
+  ],
+  "HII": [
+    {
+      "incident_loc": "Wing A",
+      "count": 77,
+      "proportion": 0.4666666666666667,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 27,
+      "proportion": 0.16363636363636364,
+      "proportion_round": 0.16
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 61,
+      "proportion": 0.3696969696969697,
+      "proportion_round": 0.37
+    }
+  ],
+  "HLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 55,
+      "proportion": 0.3333333333333333,
+      "proportion_round": 0.33
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 48,
+      "proportion": 0.2909090909090909,
+      "proportion_round": 0.29
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 62,
+      "proportion": 0.37575757575757573,
+      "proportion_round": 0.38
+    }
+  ],
+  "HMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 21,
+      "proportion": 0.21649484536082475,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 56,
+      "proportion": 0.5773195876288659,
+      "proportion_round": 0.58
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 20,
+      "proportion": 0.20618556701030927,
+      "proportion_round": 0.21
+    }
+  ],
+  "HOI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 50,
+      "proportion": 0.44642857142857145,
+      "proportion_round": 0.45
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 21,
+      "proportion": 0.1875,
+      "proportion_round": 0.19
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 41,
+      "proportion": 0.36607142857142855,
+      "proportion_round": 0.37
+    }
+  ],
+  "HPI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.021739130434782608,
+      "proportion_round": 0.02
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 7,
+      "proportion": 0.07608695652173914,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 83,
+      "proportion": 0.9021739130434783,
+      "proportion_round": 0.9
+    }
+  ],
+  "HVI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 33,
+      "proportion": 0.19642857142857142,
+      "proportion_round": 0.2
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 64,
+      "proportion": 0.38095238095238093,
+      "proportion_round": 0.38
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 71,
+      "proportion": 0.4226190476190476,
+      "proportion_round": 0.42
+    }
+  ],
+  "ISI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.47959183673469385,
+      "proportion_round": 0.48
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.1989795918367347,
+      "proportion_round": 0.2
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 63,
+      "proportion": 0.32142857142857145,
+      "proportion_round": 0.32
+    }
+  ],
+  "IWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 71,
+      "proportion": 0.3256880733944954,
+      "proportion_round": 0.33
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 53,
+      "proportion": 0.24311926605504589,
+      "proportion_round": 0.24
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 94,
+      "proportion": 0.43119266055045874,
+      "proportion_round": 0.43
+    }
+  ],
+  "KMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.4666666666666667,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 53,
+      "proportion": 0.3925925925925926,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 19,
+      "proportion": 0.14074074074074075,
+      "proportion_round": 0.14
+    }
+  ],
+  "KVI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 72,
+      "proportion": 0.5625,
+      "proportion_round": 0.56
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 10,
+      "proportion": 0.078125,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 46,
+      "proportion": 0.359375,
+      "proportion_round": 0.36
+    }
+  ],
+  "LCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 79,
+      "proportion": 0.45930232558139533,
+      "proportion_round": 0.46
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 72,
+      "proportion": 0.4186046511627907,
+      "proportion_round": 0.42
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 21,
+      "proportion": 0.12209302325581395,
+      "proportion_round": 0.12
+    }
+  ],
+  "LEI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 84,
+      "proportion": 0.7241379310344828,
+      "proportion_round": 0.72
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 3,
+      "proportion": 0.02586206896551724,
+      "proportion_round": 0.03
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 29,
+      "proportion": 0.25,
+      "proportion_round": 0.25
+    }
+  ],
+  "LFI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 98,
+      "proportion": 0.48756218905472637,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 4,
+      "proportion": 0.01990049751243781,
+      "proportion_round": 0.02
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 99,
+      "proportion": 0.4925373134328358,
+      "proportion_round": 0.49
+    }
+  ],
+  "LGI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 40,
+      "proportion": 0.2962962962962963,
+      "proportion_round": 0.3
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 8,
+      "proportion": 0.05925925925925926,
+      "proportion_round": 0.06
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 87,
+      "proportion": 0.6444444444444445,
+      "proportion_round": 0.64
+    }
+  ],
+  "LHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 25,
+      "proportion": 0.1152073732718894,
+      "proportion_round": 0.12
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 99,
+      "proportion": 0.45622119815668205,
+      "proportion_round": 0.46
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 93,
+      "proportion": 0.42857142857142855,
+      "proportion_round": 0.43
+    }
+  ],
+  "LII": [
+    {
+      "incident_loc": "Wing A",
+      "count": 51,
+      "proportion": 0.5730337078651685,
+      "proportion_round": 0.57
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 12,
+      "proportion": 0.1348314606741573,
+      "proportion_round": 0.13
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 26,
+      "proportion": 0.29213483146067415,
+      "proportion_round": 0.29
+    }
+  ],
+  "LLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 98,
+      "proportion": 0.5384615384615384,
+      "proportion_round": 0.54
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 62,
+      "proportion": 0.34065934065934067,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 22,
+      "proportion": 0.12087912087912088,
+      "proportion_round": 0.12
+    }
+  ],
+  "LNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 75,
+      "proportion": 0.5208333333333334,
+      "proportion_round": 0.52
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 56,
+      "proportion": 0.3888888888888889,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 13,
+      "proportion": 0.09027777777777778,
+      "proportion_round": 0.09
+    }
+  ],
+  "LPI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 87,
+      "proportion": 0.5178571428571429,
+      "proportion_round": 0.52
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 62,
+      "proportion": 0.36904761904761907,
+      "proportion_round": 0.37
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 19,
+      "proportion": 0.1130952380952381,
+      "proportion_round": 0.11
+    }
+  ],
+  "LTI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 62,
+      "proportion": 0.4732824427480916,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 6,
+      "proportion": 0.04580152671755725,
+      "proportion_round": 0.05
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 63,
+      "proportion": 0.48091603053435117,
+      "proportion_round": 0.48
+    }
+  ],
+  "LWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 57,
+      "proportion": 0.4453125,
+      "proportion_round": 0.45
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 1,
+      "proportion": 0.0078125,
+      "proportion_round": 0.01
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 70,
+      "proportion": 0.546875,
+      "proportion_round": 0.55
+    }
+  ],
+  "LYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 36,
+      "proportion": 0.1935483870967742,
+      "proportion_round": 0.19
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 59,
+      "proportion": 0.3172043010752688,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 91,
+      "proportion": 0.489247311827957,
+      "proportion_round": 0.49
+    }
+  ],
+  "MDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 61,
+      "proportion": 0.2772727272727273,
+      "proportion_round": 0.28
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 69,
+      "proportion": 0.31363636363636366,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 90,
+      "proportion": 0.4090909090909091,
+      "proportion_round": 0.41
+    }
+  ],
+  "MHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.36416184971098264,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 16,
+      "proportion": 0.09248554913294797,
+      "proportion_round": 0.09
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 94,
+      "proportion": 0.5433526011560693,
+      "proportion_round": 0.54
+    }
+  ],
+  "MRI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 46,
+      "proportion": 0.26436781609195403,
+      "proportion_round": 0.26
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.21839080459770116,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 90,
+      "proportion": 0.5172413793103449,
+      "proportion_round": 0.52
+    }
+  ],
+  "MSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.5705882352941176,
+      "proportion_round": 0.57
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 50,
+      "proportion": 0.29411764705882354,
+      "proportion_round": 0.29
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 23,
+      "proportion": 0.13529411764705881,
+      "proportion_round": 0.14
+    }
+  ],
+  "MTI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 78,
+      "proportion": 0.40414507772020725,
+      "proportion_round": 0.4
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 26,
+      "proportion": 0.13471502590673576,
+      "proportion_round": 0.13
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 89,
+      "proportion": 0.46113989637305697,
+      "proportion_round": 0.46
+    }
+  ],
+  "NHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.39156626506024095,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 56,
+      "proportion": 0.3373493975903614,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 45,
+      "proportion": 0.2710843373493976,
+      "proportion_round": 0.27
+    }
+  ],
+  "NLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.5271739130434783,
+      "proportion_round": 0.53
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 10,
+      "proportion": 0.05434782608695652,
+      "proportion_round": 0.05
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 77,
+      "proportion": 0.41847826086956524,
+      "proportion_round": 0.42
+    }
+  ],
+  "NMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 71,
+      "proportion": 0.3901098901098901,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 68,
+      "proportion": 0.37362637362637363,
+      "proportion_round": 0.37
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 43,
+      "proportion": 0.23626373626373626,
+      "proportion_round": 0.24
+    }
+  ],
+  "NSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 37,
+      "proportion": 0.46835443037974683,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.4936708860759494,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 3,
+      "proportion": 0.0379746835443038,
+      "proportion_round": 0.04
+    }
+  ],
+  "NWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 57,
+      "proportion": 0.43846153846153846,
+      "proportion_round": 0.44
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 41,
+      "proportion": 0.3153846153846154,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 32,
+      "proportion": 0.24615384615384617,
+      "proportion_round": 0.25
+    }
+  ],
+  "ONI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 46,
+      "proportion": 0.304635761589404,
+      "proportion_round": 0.3
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 8,
+      "proportion": 0.052980132450331126,
+      "proportion_round": 0.05
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 97,
+      "proportion": 0.6423841059602649,
+      "proportion_round": 0.64
+    }
+  ],
+  "OWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 66,
+      "proportion": 0.5076923076923077,
+      "proportion_round": 0.51
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 41,
+      "proportion": 0.3153846153846154,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 23,
+      "proportion": 0.17692307692307693,
+      "proportion_round": 0.18
+    }
+  ],
+  "PBI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 28,
+      "proportion": 0.345679012345679,
+      "proportion_round": 0.35
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 50,
+      "proportion": 0.6172839506172839,
+      "proportion_round": 0.62
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 3,
+      "proportion": 0.037037037037037035,
+      "proportion_round": 0.04
+    }
+  ],
+  "PDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.3140096618357488,
+      "proportion_round": 0.31
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 95,
+      "proportion": 0.45893719806763283,
+      "proportion_round": 0.46
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 47,
+      "proportion": 0.22705314009661837,
+      "proportion_round": 0.23
+    }
+  ],
+  "PFI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 79,
+      "proportion": 0.5524475524475524,
+      "proportion_round": 0.55
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 25,
+      "proportion": 0.17482517482517482,
+      "proportion_round": 0.17
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 39,
+      "proportion": 0.2727272727272727,
+      "proportion_round": 0.27
+    }
+  ],
+  "PNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 3,
+      "proportion": 0.07692307692307693,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 3,
+      "proportion": 0.07692307692307693,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 33,
+      "proportion": 0.8461538461538461,
+      "proportion_round": 0.85
+    }
+  ],
+  "PRI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 47,
+      "proportion": 0.46534653465346537,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 37,
+      "proportion": 0.36633663366336633,
+      "proportion_round": 0.37
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 17,
+      "proportion": 0.16831683168316833,
+      "proportion_round": 0.17
+    }
+  ],
+  "PVI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 54,
+      "proportion": 0.72,
+      "proportion_round": 0.72
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 2,
+      "proportion": 0.02666666666666667,
+      "proportion_round": 0.03
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 19,
+      "proportion": 0.25333333333333335,
+      "proportion_round": 0.25
+    }
+  ],
+  "PYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 78,
+      "proportion": 0.319672131147541,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 81,
+      "proportion": 0.3319672131147541,
+      "proportion_round": 0.33
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 85,
+      "proportion": 0.3483606557377049,
+      "proportion_round": 0.35
+    }
+  ],
+  "RCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 5,
+      "proportion": 0.09090909090909091,
+      "proportion_round": 0.09
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 49,
+      "proportion": 0.8909090909090909,
+      "proportion_round": 0.89
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 1,
+      "proportion": 0.01818181818181818,
+      "proportion_round": 0.02
+    }
+  ],
+  "RHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 76,
+      "proportion": 0.5507246376811594,
+      "proportion_round": 0.55
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 47,
+      "proportion": 0.34057971014492755,
+      "proportion_round": 0.34
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.10869565217391304,
+      "proportion_round": 0.11
+    }
+  ],
+  "RNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 11,
+      "proportion": 0.08943089430894309,
+      "proportion_round": 0.09
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 84,
+      "proportion": 0.6829268292682927,
+      "proportion_round": 0.68
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 28,
+      "proportion": 0.22764227642276422,
+      "proportion_round": 0.23
+    }
+  ],
+  "RSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 78,
+      "proportion": 0.3023255813953488,
+      "proportion_round": 0.3
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 98,
+      "proportion": 0.3798449612403101,
+      "proportion_round": 0.38
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 82,
+      "proportion": 0.3178294573643411,
+      "proportion_round": 0.32
+    }
+  ],
+  "SDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 29,
+      "proportion": 0.27358490566037735,
+      "proportion_round": 0.27
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.3584905660377358,
+      "proportion_round": 0.36
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 39,
+      "proportion": 0.36792452830188677,
+      "proportion_round": 0.37
+    }
+  ],
+  "SFI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 82,
+      "proportion": 0.3166023166023166,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 82,
+      "proportion": 0.3166023166023166,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 95,
+      "proportion": 0.3667953667953668,
+      "proportion_round": 0.37
+    }
+  ],
+  "SHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 9,
+      "proportion": 0.08653846153846154,
+      "proportion_round": 0.09
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 28,
+      "proportion": 0.2692307692307692,
+      "proportion_round": 0.27
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 67,
+      "proportion": 0.6442307692307693,
+      "proportion_round": 0.64
+    }
+  ],
+  "SKI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.0625,
+      "proportion_round": 0.06
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 28,
+      "proportion": 0.875,
+      "proportion_round": 0.88
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 2,
+      "proportion": 0.0625,
+      "proportion_round": 0.06
+    }
+  ],
+  "SLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.8952380952380953,
+      "proportion_round": 0.9
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 5,
+      "proportion": 0.047619047619047616,
+      "proportion_round": 0.05
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 6,
+      "proportion": 0.05714285714285714,
+      "proportion_round": 0.06
+    }
+  ],
+  "SNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 45,
+      "proportion": 0.47368421052631576,
+      "proportion_round": 0.47
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 22,
+      "proportion": 0.23157894736842105,
+      "proportion_round": 0.23
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 28,
+      "proportion": 0.29473684210526313,
+      "proportion_round": 0.29
+    }
+  ],
+  "SPI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 16,
+      "proportion": 0.09876543209876543,
+      "proportion_round": 0.1
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 69,
+      "proportion": 0.42592592592592593,
+      "proportion_round": 0.43
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 77,
+      "proportion": 0.47530864197530864,
+      "proportion_round": 0.48
+    }
+  ],
+  "STI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 90,
+      "proportion": 0.7142857142857143,
+      "proportion_round": 0.71
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 18,
+      "proportion": 0.14285714285714285,
+      "proportion_round": 0.14
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 18,
+      "proportion": 0.14285714285714285,
+      "proportion_round": 0.14
+    }
+  ],
+  "SUI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 21,
+      "proportion": 0.17796610169491525,
+      "proportion_round": 0.18
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 27,
+      "proportion": 0.2288135593220339,
+      "proportion_round": 0.23
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 70,
+      "proportion": 0.5932203389830508,
+      "proportion_round": 0.59
+    }
+  ],
+  "SWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 30,
+      "proportion": 0.32967032967032966,
+      "proportion_round": 0.33
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.4175824175824176,
+      "proportion_round": 0.42
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 23,
+      "proportion": 0.25274725274725274,
+      "proportion_round": 0.25
+    }
+  ],
+  "TCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 16,
+      "proportion": 0.10126582278481013,
+      "proportion_round": 0.1
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 93,
+      "proportion": 0.5886075949367089,
+      "proportion_round": 0.59
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 49,
+      "proportion": 0.310126582278481,
+      "proportion_round": 0.31
+    }
+  ],
+  "TSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 56,
+      "proportion": 0.2679425837320574,
+      "proportion_round": 0.27
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 89,
+      "proportion": 0.4258373205741627,
+      "proportion_round": 0.43
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 64,
+      "proportion": 0.3062200956937799,
+      "proportion_round": 0.31
+    }
+  ],
+  "UKI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.4228187919463087,
+      "proportion_round": 0.42
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 22,
+      "proportion": 0.1476510067114094,
+      "proportion_round": 0.15
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 64,
+      "proportion": 0.42953020134228187,
+      "proportion_round": 0.43
+    }
+  ],
+  "UPI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 54,
+      "proportion": 0.6067415730337079,
+      "proportion_round": 0.61
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 9,
+      "proportion": 0.10112359550561797,
+      "proportion_round": 0.1
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 26,
+      "proportion": 0.29213483146067415,
+      "proportion_round": 0.29
+    }
+  ],
+  "VEI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.3987341772151899,
+      "proportion_round": 0.4
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 77,
+      "proportion": 0.4873417721518987,
+      "proportion_round": 0.49
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 18,
+      "proportion": 0.11392405063291139,
+      "proportion_round": 0.11
+    }
+  ],
+  "WCI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 49,
+      "proportion": 0.32450331125827814,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 18,
+      "proportion": 0.11920529801324503,
+      "proportion_round": 0.12
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 84,
+      "proportion": 0.5562913907284768,
+      "proportion_round": 0.56
+    }
+  ],
+  "WDI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 62,
+      "proportion": 0.389937106918239,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 2,
+      "proportion": 0.012578616352201259,
+      "proportion_round": 0.01
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 95,
+      "proportion": 0.5974842767295597,
+      "proportion_round": 0.6
+    }
+  ],
+  "WEI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 39,
+      "proportion": 0.25,
+      "proportion_round": 0.25
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.24358974358974358,
+      "proportion_round": 0.24
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 79,
+      "proportion": 0.5064102564102564,
+      "proportion_round": 0.51
+    }
+  ],
+  "WHI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.38922155688622756,
+      "proportion_round": 0.39
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 94,
+      "proportion": 0.562874251497006,
+      "proportion_round": 0.56
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 8,
+      "proportion": 0.04790419161676647,
+      "proportion_round": 0.05
+    }
+  ],
+  "WII": [
+    {
+      "incident_loc": "Wing A",
+      "count": 55,
+      "proportion": 0.5288461538461539,
+      "proportion_round": 0.53
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 19,
+      "proportion": 0.18269230769230768,
+      "proportion_round": 0.18
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 30,
+      "proportion": 0.28846153846153844,
+      "proportion_round": 0.29
+    }
+  ],
+  "WLI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 3,
+      "proportion": 0.02586206896551724,
+      "proportion_round": 0.03
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 65,
+      "proportion": 0.5603448275862069,
+      "proportion_round": 0.56
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 48,
+      "proportion": 0.41379310344827586,
+      "proportion_round": 0.41
+    }
+  ],
+  "WMI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.6217948717948718,
+      "proportion_round": 0.62
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 10,
+      "proportion": 0.0641025641025641,
+      "proportion_round": 0.06
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 49,
+      "proportion": 0.3141025641025641,
+      "proportion_round": 0.31
+    }
+  ],
+  "WNI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 87,
+      "proportion": 0.7372881355932204,
+      "proportion_round": 0.74
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 26,
+      "proportion": 0.22033898305084745,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 5,
+      "proportion": 0.0423728813559322,
+      "proportion_round": 0.04
+    }
+  ],
+  "WRI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 30,
+      "proportion": 0.2222222222222222,
+      "proportion_round": 0.22
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 96,
+      "proportion": 0.7111111111111111,
+      "proportion_round": 0.71
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 9,
+      "proportion": 0.06666666666666667,
+      "proportion_round": 0.07
+    }
+  ],
+  "WSI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 74,
+      "proportion": 0.28793774319066145,
+      "proportion_round": 0.29
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 84,
+      "proportion": 0.32684824902723736,
+      "proportion_round": 0.33
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 99,
+      "proportion": 0.3852140077821012,
+      "proportion_round": 0.39
+    }
+  ],
+  "WTI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.014598540145985401,
+      "proportion_round": 0.01
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 92,
+      "proportion": 0.6715328467153284,
+      "proportion_round": 0.67
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 43,
+      "proportion": 0.31386861313868614,
+      "proportion_round": 0.31
+    }
+  ],
+  "WWI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 15,
+      "proportion": 0.3191489361702128,
+      "proportion_round": 0.32
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 0,
+      "proportion": 0.0,
+      "proportion_round": 0.0
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 32,
+      "proportion": 0.6808510638297872,
+      "proportion_round": 0.68
+    }
+  ],
+  "WYI": [
+    {
+      "incident_loc": "Wing A",
+      "count": 75,
+      "proportion": 0.7425742574257426,
+      "proportion_round": 0.74
+    },
+    {
+      "incident_loc": "Wing B",
+      "count": 8,
+      "proportion": 0.07920792079207921,
+      "proportion_round": 0.08
+    },
+    {
+      "incident_loc": "Wing C",
+      "count": 18,
+      "proportion": 0.1782178217821782,
+      "proportion_round": 0.18
+    }
+  ]
+}
