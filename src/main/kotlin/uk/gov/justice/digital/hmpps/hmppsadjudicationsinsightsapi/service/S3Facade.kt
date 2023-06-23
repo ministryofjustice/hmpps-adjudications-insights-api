@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component
 
 @Component
 class S3Facade(
- private val amazonS3: AmazonS3,
+  private val amazonS3: AmazonS3,
   @Value("\${data-insights.bucket.name}") private val bucketName: String,
 ) {
 
