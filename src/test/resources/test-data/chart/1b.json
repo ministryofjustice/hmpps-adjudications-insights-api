@@ -1,0 +1,9978 @@
+{
+  "ACI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 66,
+      "year_prev": 2022,
+      "count_prev": 19
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 3
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 27
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 56
+    }
+  ],
+  "ASI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 56
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 6
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 87,
+      "year_prev": 2022,
+      "count_prev": 65
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 59,
+      "year_prev": 2022,
+      "count_prev": 6
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 69
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 21,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 45,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 74
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 68,
+      "year_prev": 2021,
+      "count_prev": 61
+    }
+  ],
+  "AYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 77,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 50,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 30,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 58
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 49
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 38
+    }
+  ],
+  "BAI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 69
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 16
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 74
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 7,
+      "year_prev": 2021,
+      "count_prev": 31
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 4
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 82,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 26,
+      "year_prev": 2021,
+      "count_prev": 89
+    }
+  ],
+  "BFI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 20
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 0,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 80,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 38
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 25
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 71
+    }
+  ],
+  "BLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 73,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 26
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 7,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 42
+    }
+  ],
+  "BMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 88
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 63
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 62
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 70
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 75
+    }
+  ],
+  "BNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 11,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 82
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 17
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 29,
+      "year_prev": 2021,
+      "count_prev": 4
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 67
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 35
+    }
+  ],
+  "BRI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 13,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 93,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 36
+    }
+  ],
+  "BSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 80,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 80,
+      "year_prev": 2021,
+      "count_prev": 71
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 91,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 35
+    }
+  ],
+  "BWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 23
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 74
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 15,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 32
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 53
+    }
+  ],
+  "BXI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 49
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 21,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 12
+    }
+  ],
+  "BZI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 12,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 62
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 16
+    }
+  ],
+  "CDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 52
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 68
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 96
+    }
+  ],
+  "CFI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 52
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 56
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 49,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 66,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 71
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 67
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 84
+    }
+  ],
+  "CKI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 87,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 16,
+      "year_prev": 2022,
+      "count_prev": 43
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 59,
+      "year_prev": 2022,
+      "count_prev": 93
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 33,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 6
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 34,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 60
+    }
+  ],
+  "CLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 80,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 77,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 95,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 12
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 82
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 73
+    }
+  ],
+  "CWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 49,
+      "year_prev": 2022,
+      "count_prev": 39
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 1
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 8
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 20,
+      "year_prev": 2021,
+      "count_prev": 7
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 64,
+      "year_prev": 2021,
+      "count_prev": 25
+    }
+  ],
+  "DAI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 43
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 46
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 42,
+      "year_prev": 2022,
+      "count_prev": 11
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 8,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 12,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 31
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 53
+    }
+  ],
+  "DGI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 11,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 71,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 43
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 34,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 31
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 76,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 48,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 12,
+      "year_prev": 2021,
+      "count_prev": 36
+    }
+  ],
+  "DHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 97
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 56
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 74
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 26
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 19
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 68
+    }
+  ],
+  "DMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 59,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 73,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 63,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 56
+    }
+  ],
+  "DNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 72
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 30
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 13
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 63
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 13
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 68,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 88
+    }
+  ],
+  "DTI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 12
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 37,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 8
+    }
+  ],
+  "DWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 12,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 5
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 4
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 2,
+      "year_prev": 2021,
+      "count_prev": 48
+    }
+  ],
+  "EEI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 23
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 95,
+      "year_prev": 2022,
+      "count_prev": 16
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 25,
+      "year_prev": 2022,
+      "count_prev": 65
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 20
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 84
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 50
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 48
+    }
+  ],
+  "EHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 95,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 46
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 30
+    }
+  ],
+  "EWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 19
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 85
+    }
+  ],
+  "EXI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 34,
+      "year_prev": 2022,
+      "count_prev": 82
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 20,
+      "year_prev": 2021,
+      "count_prev": 19
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 34,
+      "year_prev": 2021,
+      "count_prev": 49
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 21,
+      "year_prev": 2021,
+      "count_prev": 8
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 9
+    }
+  ],
+  "EYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 66,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 19
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 25
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 8,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 1
+    }
+  ],
+  "FBI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 10
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 68,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 51,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 76,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 2
+    }
+  ],
+  "FDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 60,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 71,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 62
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 28,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 19
+    }
+  ],
+  "FHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 73,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 63,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 69
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 12
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 15,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 2,
+      "year_prev": 2021,
+      "count_prev": 27
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 83
+    }
+  ],
+  "FKI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 54
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 4,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 81
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 53
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 30
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 49
+    }
+  ],
+  "FMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 77,
+      "year_prev": 2022,
+      "count_prev": 25
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 55,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 60,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 33,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 54
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 68
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 42
+    }
+  ],
+  "FNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 42,
+      "year_prev": 2022,
+      "count_prev": 74
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 16,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 65
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 3
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 91,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 18
+    }
+  ],
+  "FSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 11
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 57,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 36
+    }
+  ],
+  "FWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 61
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 24
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 60
+    }
+  ],
+  "FYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 16,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 25,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 27
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 75
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 30
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 12
+    }
+  ],
+  "GHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 61
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 42
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 17
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 25
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 7,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 10
+    }
+  ],
+  "GMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 1
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 84
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 29,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 33
+    }
+  ],
+  "GNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 86,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 55,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 22
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 52
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 80,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 35
+    }
+  ],
+  "GTI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 25,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 6
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 58
+    }
+  ],
+  "HBI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 11
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 42
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 77,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 57
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 23
+    }
+  ],
+  "HCI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 42
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 10,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 8,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 87
+    }
+  ],
+  "HEI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 77,
+      "year_prev": 2021,
+      "count_prev": 4
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 95
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 7
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 47,
+      "year_prev": 2021,
+      "count_prev": 85
+    }
+  ],
+  "HHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 79,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 61
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 87
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 41
+    }
+  ],
+  "HII": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 88
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 54,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 82
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 0,
+      "year_prev": 2021,
+      "count_prev": 98
+    }
+  ],
+  "HLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 11,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 72,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 10
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 12,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 74
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 21,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 30
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 38
+    }
+  ],
+  "HMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 80,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 16
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 62
+    }
+  ],
+  "HOI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 56
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 54,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 45,
+      "year_prev": 2021,
+      "count_prev": 38
+    }
+  ],
+  "HPI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 39
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 28,
+      "year_prev": 2021,
+      "count_prev": 95
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 10
+    }
+  ],
+  "HVI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 63,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 95
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 55,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 93,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 97
+    }
+  ],
+  "ISI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 52
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 95,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 54,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 33,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 20,
+      "year_prev": 2021,
+      "count_prev": 80
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 1
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 47,
+      "year_prev": 2021,
+      "count_prev": 94
+    }
+  ],
+  "IWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 93
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 74
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 43
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 25
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 61
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 29,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 41
+    }
+  ],
+  "KMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 43
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 55
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 42
+    }
+  ],
+  "KVI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 25,
+      "year_prev": 2022,
+      "count_prev": 65
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 48,
+      "year_prev": 2021,
+      "count_prev": 35
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 2,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 78
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 71
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 55
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 41
+    }
+  ],
+  "LCI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 33,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 52
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 23,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 18
+    }
+  ],
+  "LEI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 72,
+      "year_prev": 2022,
+      "count_prev": 15
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 55,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 39
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 87
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 8
+    }
+  ],
+  "LFI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 15
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 80,
+      "year_prev": 2022,
+      "count_prev": 81
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 76,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 77,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 75
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 85
+    }
+  ],
+  "LGI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 64,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 89,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 97,
+      "year_prev": 2021,
+      "count_prev": 69
+    }
+  ],
+  "LHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 8
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 24
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 22
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 97,
+      "year_prev": 2021,
+      "count_prev": 1
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 87
+    }
+  ],
+  "LII": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 88
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 94,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 42
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 84
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 6
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 18
+    }
+  ],
+  "LNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 33,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 23,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 49,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 98
+    }
+  ],
+  "LPI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 20
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 38
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 40
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 63
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 89,
+      "year_prev": 2021,
+      "count_prev": 13
+    }
+  ],
+  "LTI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 49
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 16
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 10
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 75
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 46
+    }
+  ],
+  "LWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 69
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 18
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 95,
+      "year_prev": 2022,
+      "count_prev": 52
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 44
+    }
+  ],
+  "LYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 17
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 6
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 81,
+      "year_prev": 2021,
+      "count_prev": 80
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 25,
+      "year_prev": 2021,
+      "count_prev": 55
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 76,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 48,
+      "year_prev": 2021,
+      "count_prev": 5
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 67
+    }
+  ],
+  "MDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 14,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 61
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 88
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 87,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 89,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 3
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 20
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 76,
+      "year_prev": 2021,
+      "count_prev": 17
+    }
+  ],
+  "MHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 77,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 4,
+      "year_prev": 2022,
+      "count_prev": 10
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 1
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 23
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 55,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 32
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 9
+    }
+  ],
+  "MRI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 26
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 69
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 67,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 7
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 52
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 79
+    }
+  ],
+  "MSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 86,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 34,
+      "year_prev": 2021,
+      "count_prev": 51
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 13
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 72,
+      "year_prev": 2021,
+      "count_prev": 23
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 58
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 68,
+      "year_prev": 2021,
+      "count_prev": 83
+    }
+  ],
+  "MTI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 33,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 16
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 49,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 26
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 10
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 3
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 81
+    }
+  ],
+  "NHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 1
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 12,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 0,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 98
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 92
+    }
+  ],
+  "NLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 58
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 11,
+      "year_prev": 2022,
+      "count_prev": 23
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 11,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 84
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 50
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 92,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 69
+    }
+  ],
+  "NMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 54,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 23,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 93
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 73,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 63
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 59
+    }
+  ],
+  "NWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 25,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 15
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 13
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 37,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 21
+    }
+  ],
+  "ONI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 55,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 21
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 22
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 2
+    }
+  ],
+  "OWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 13,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 25
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 36
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 91,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 49
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 86
+    }
+  ],
+  "PBI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 36,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 54,
+      "year_prev": 2022,
+      "count_prev": 3
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 57,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 88
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 62
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 66
+    }
+  ],
+  "PDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 97
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 69
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 87
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 61
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 26,
+      "year_prev": 2021,
+      "count_prev": 94
+    }
+  ],
+  "PFI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 34
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 93
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 10,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 74
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 91,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 62,
+      "year_prev": 2021,
+      "count_prev": 18
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 28,
+      "year_prev": 2021,
+      "count_prev": 39
+    }
+  ],
+  "PNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 74
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 42,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 51,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 32
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 60
+    }
+  ],
+  "PRI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 60,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 97,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 19
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 80,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 22
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 27
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 44
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 32
+    }
+  ],
+  "PVI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 62
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 66,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 60,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 58,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 34,
+      "year_prev": 2021,
+      "count_prev": 12
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 80
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 36
+    }
+  ],
+  "PYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 61
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 42,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 80,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 3
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 13,
+      "year_prev": 2022,
+      "count_prev": 6
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 16
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 33
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 51,
+      "year_prev": 2021,
+      "count_prev": 35
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 35
+    }
+  ],
+  "RCI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 29
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 57,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 65,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 60,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 46,
+      "year_prev": 2021,
+      "count_prev": 24
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 85,
+      "year_prev": 2021,
+      "count_prev": 3
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 25
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 5,
+      "year_prev": 2021,
+      "count_prev": 11
+    }
+  ],
+  "RHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 30,
+      "year_prev": 2022,
+      "count_prev": 20
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 43,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 8
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 1
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 47
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 7,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 4,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 79
+    }
+  ],
+  "RNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 82,
+      "year_prev": 2022,
+      "count_prev": 87
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 92
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 36
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 93,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 93,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 99
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 43,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 4
+    }
+  ],
+  "RSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 87,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 82
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 14,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 97,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 95
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 19
+    }
+  ],
+  "SDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 30,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 82
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 13,
+      "year_prev": 2022,
+      "count_prev": 69
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 12,
+      "year_prev": 2022,
+      "count_prev": 32
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 58,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 45
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 62
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 40,
+      "year_prev": 2021,
+      "count_prev": 10
+    }
+  ],
+  "SFI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 4,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 40
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 13
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 77,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 63
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 94
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 50
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 93,
+      "year_prev": 2021,
+      "count_prev": 67
+    }
+  ],
+  "SHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 58,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 17
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 79,
+      "year_prev": 2022,
+      "count_prev": 56
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 38,
+      "year_prev": 2022,
+      "count_prev": 81
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 1
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 51,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 8,
+      "year_prev": 2021,
+      "count_prev": 98
+    }
+  ],
+  "SKI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 73
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 44,
+      "year_prev": 2022,
+      "count_prev": 6
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 58,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 8,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 72,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 47
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 31,
+      "year_prev": 2021,
+      "count_prev": 64
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 51
+    }
+  ],
+  "SLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 81
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 91
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 31
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 77,
+      "year_prev": 2021,
+      "count_prev": 91
+    }
+  ],
+  "SNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 62
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 52,
+      "year_prev": 2022,
+      "count_prev": 53
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 93
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 69
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 89
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 47,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 62
+    }
+  ],
+  "SPI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 34,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 73,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 87,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 63,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 29,
+      "year_prev": 2021,
+      "count_prev": 31
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 66,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 14
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 13
+    }
+  ],
+  "STI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 20,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 71,
+      "year_prev": 2022,
+      "count_prev": 30
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 70,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 25
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 30,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 66,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 81
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 28
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 76
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 65,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 77
+    }
+  ],
+  "SUI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 62
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 24,
+      "year_prev": 2022,
+      "count_prev": 96
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 47
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 10,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 27,
+      "year_prev": 2021,
+      "count_prev": 22
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 95,
+      "year_prev": 2021,
+      "count_prev": 35
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 60
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 49,
+      "year_prev": 2021,
+      "count_prev": 94
+    }
+  ],
+  "SWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 11
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 50,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 5,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 37,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 88
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 48,
+      "year_prev": 2021,
+      "count_prev": 72
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 37
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 52,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 39,
+      "year_prev": 2021,
+      "count_prev": 75
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 98
+    }
+  ],
+  "TCI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 81,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 63,
+      "year_prev": 2022,
+      "count_prev": 46
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 89,
+      "year_prev": 2022,
+      "count_prev": 16
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 68
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 16,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 9,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 53
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 36,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 2
+    }
+  ],
+  "TSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 28
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 57,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 17
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 71
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 83
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 2
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 82,
+      "year_prev": 2021,
+      "count_prev": 11
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 75,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 92
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 80,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 44
+    }
+  ],
+  "VEI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 17,
+      "year_prev": 2022,
+      "count_prev": 39
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 9
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 51,
+      "year_prev": 2022,
+      "count_prev": 54
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 34,
+      "year_prev": 2022,
+      "count_prev": 8
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 53,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 77
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 12,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 89,
+      "year_prev": 2021,
+      "count_prev": 35
+    }
+  ],
+  "WCI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 15,
+      "year_prev": 2022,
+      "count_prev": 54
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 48,
+      "year_prev": 2022,
+      "count_prev": 86
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 59,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 60
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 23,
+      "year_prev": 2022,
+      "count_prev": 67
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 87,
+      "year_prev": 2021,
+      "count_prev": 57
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 69,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 17,
+      "year_prev": 2021,
+      "count_prev": 16
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 54
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 82,
+      "year_prev": 2021,
+      "count_prev": 71
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 57
+    }
+  ],
+  "WDI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 47,
+      "year_prev": 2022,
+      "count_prev": 84
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 97
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 42
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 4,
+      "year_prev": 2022,
+      "count_prev": 90
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 13
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 78,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 55
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 55,
+      "year_prev": 2021,
+      "count_prev": 48
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 86,
+      "year_prev": 2021,
+      "count_prev": 26
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 15,
+      "year_prev": 2021,
+      "count_prev": 31
+    }
+  ],
+  "WEI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 21,
+      "year_prev": 2022,
+      "count_prev": 57
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 10,
+      "year_prev": 2022,
+      "count_prev": 79
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 70
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 15
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 41
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 33,
+      "year_prev": 2021,
+      "count_prev": 69
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 99,
+      "year_prev": 2021,
+      "count_prev": 35
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 5
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 28,
+      "year_prev": 2021,
+      "count_prev": 56
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 52
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 12,
+      "year_prev": 2021,
+      "count_prev": 7
+    }
+  ],
+  "WHI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 18,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 46,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 7,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 1,
+      "year_prev": 2022,
+      "count_prev": 4
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 32,
+      "year_prev": 2022,
+      "count_prev": 20
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 64,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 3,
+      "year_prev": 2021,
+      "count_prev": 9
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 50,
+      "year_prev": 2021,
+      "count_prev": 61
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 28,
+      "year_prev": 2021,
+      "count_prev": 43
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 77
+    }
+  ],
+  "WII": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 31,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 74,
+      "year_prev": 2022,
+      "count_prev": 37
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 40,
+      "year_prev": 2022,
+      "count_prev": 54
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 49,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 22
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 9,
+      "year_prev": 2022,
+      "count_prev": 51
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 1,
+      "year_prev": 2021,
+      "count_prev": 55
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 12,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 64,
+      "year_prev": 2021,
+      "count_prev": 0
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 13,
+      "year_prev": 2021,
+      "count_prev": 30
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 7,
+      "year_prev": 2021,
+      "count_prev": 42
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 96,
+      "year_prev": 2021,
+      "count_prev": 15
+    }
+  ],
+  "WLI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 58,
+      "year_prev": 2022,
+      "count_prev": 48
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 59,
+      "year_prev": 2022,
+      "count_prev": 68
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 84,
+      "year_prev": 2022,
+      "count_prev": 66
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 85,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 23,
+      "year_prev": 2021,
+      "count_prev": 8
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 30,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 70,
+      "year_prev": 2021,
+      "count_prev": 96
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 64,
+      "year_prev": 2021,
+      "count_prev": 74
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 18,
+      "year_prev": 2021,
+      "count_prev": 41
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 35,
+      "year_prev": 2021,
+      "count_prev": 34
+    }
+  ],
+  "WMI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 68,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 61,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 45,
+      "year_prev": 2022,
+      "count_prev": 12
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 28,
+      "year_prev": 2022,
+      "count_prev": 5
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 47,
+      "year_prev": 2021,
+      "count_prev": 86
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 34
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 83,
+      "year_prev": 2021,
+      "count_prev": 65
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 8,
+      "year_prev": 2021,
+      "count_prev": 40
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 90,
+      "year_prev": 2021,
+      "count_prev": 57
+    }
+  ],
+  "WNI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 88,
+      "year_prev": 2022,
+      "count_prev": 94
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 4,
+      "year_prev": 2022,
+      "count_prev": 55
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 27,
+      "year_prev": 2022,
+      "count_prev": 63
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 19,
+      "year_prev": 2022,
+      "count_prev": 45
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 41,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 96,
+      "year_prev": 2022,
+      "count_prev": 35
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 91
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 59
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 71,
+      "year_prev": 2021,
+      "count_prev": 5
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 67,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 34,
+      "year_prev": 2021,
+      "count_prev": 21
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 41,
+      "year_prev": 2021,
+      "count_prev": 38
+    }
+  ],
+  "WRI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 29,
+      "year_prev": 2022,
+      "count_prev": 33
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 69,
+      "year_prev": 2022,
+      "count_prev": 85
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 92,
+      "year_prev": 2022,
+      "count_prev": 31
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 3,
+      "year_prev": 2022,
+      "count_prev": 70
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 83,
+      "year_prev": 2022,
+      "count_prev": 64
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 63,
+      "year_prev": 2022,
+      "count_prev": 46
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 57,
+      "year_prev": 2021,
+      "count_prev": 73
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 56,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 22,
+      "year_prev": 2021,
+      "count_prev": 79
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 38,
+      "year_prev": 2021,
+      "count_prev": 3
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 44,
+      "year_prev": 2021,
+      "count_prev": 83
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 79,
+      "year_prev": 2021,
+      "count_prev": 60
+    }
+  ],
+  "WSI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 22,
+      "year_prev": 2022,
+      "count_prev": 39
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 39,
+      "year_prev": 2022,
+      "count_prev": 27
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 89
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 35,
+      "year_prev": 2022,
+      "count_prev": 78
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 76,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 79,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 82
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 45,
+      "year_prev": 2021,
+      "count_prev": 90
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 42,
+      "year_prev": 2021,
+      "count_prev": 58
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 68,
+      "year_prev": 2021,
+      "count_prev": 15
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 6,
+      "year_prev": 2021,
+      "count_prev": 93
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 18
+    }
+  ],
+  "WTI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 26,
+      "year_prev": 2022,
+      "count_prev": 95
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 55,
+      "year_prev": 2022,
+      "count_prev": 75
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 71,
+      "year_prev": 2022,
+      "count_prev": 80
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 58,
+      "year_prev": 2022,
+      "count_prev": 76
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 90,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 57,
+      "year_prev": 2022,
+      "count_prev": 59
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 54,
+      "year_prev": 2021,
+      "count_prev": 46
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 59,
+      "year_prev": 2021,
+      "count_prev": 32
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 24,
+      "year_prev": 2021,
+      "count_prev": 84
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 94,
+      "year_prev": 2021,
+      "count_prev": 58
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 88,
+      "year_prev": 2021,
+      "count_prev": 39
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 32,
+      "year_prev": 2021,
+      "count_prev": 99
+    }
+  ],
+  "WWI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 62,
+      "year_prev": 2022,
+      "count_prev": 7
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 56,
+      "year_prev": 2022,
+      "count_prev": 99
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 75,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 99,
+      "year_prev": 2022,
+      "count_prev": 50
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 93,
+      "year_prev": 2022,
+      "count_prev": 77
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 98,
+      "year_prev": 2022,
+      "count_prev": 24
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 51,
+      "year_prev": 2021,
+      "count_prev": 71
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 98,
+      "year_prev": 2021,
+      "count_prev": 53
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 33,
+      "year_prev": 2021,
+      "count_prev": 57
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 61,
+      "year_prev": 2021,
+      "count_prev": 17
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 29
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 74,
+      "year_prev": 2021,
+      "count_prev": 5
+    }
+  ],
+  "WYI": [
+    {
+      "month": 1,
+      "year_curr": 2023,
+      "count_curr": 78,
+      "year_prev": 2022,
+      "count_prev": 44
+    },
+    {
+      "month": 2,
+      "year_curr": 2023,
+      "count_curr": 91,
+      "year_prev": 2022,
+      "count_prev": 0
+    },
+    {
+      "month": 3,
+      "year_curr": 2023,
+      "count_curr": 53,
+      "year_prev": 2022,
+      "count_prev": 98
+    },
+    {
+      "month": 4,
+      "year_curr": 2023,
+      "count_curr": 64,
+      "year_prev": 2022,
+      "count_prev": 46
+    },
+    {
+      "month": 5,
+      "year_curr": 2023,
+      "count_curr": 2,
+      "year_prev": 2022,
+      "count_prev": 2
+    },
+    {
+      "month": 6,
+      "year_curr": 2023,
+      "count_curr": 6,
+      "year_prev": 2022,
+      "count_prev": 14
+    },
+    {
+      "month": 7,
+      "year_curr": 2022,
+      "count_curr": 84,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 8,
+      "year_curr": 2022,
+      "count_curr": 19,
+      "year_prev": 2021,
+      "count_prev": 16
+    },
+    {
+      "month": 9,
+      "year_curr": 2022,
+      "count_curr": 77,
+      "year_prev": 2021,
+      "count_prev": 97
+    },
+    {
+      "month": 10,
+      "year_curr": 2022,
+      "count_curr": 60,
+      "year_prev": 2021,
+      "count_prev": 85
+    },
+    {
+      "month": 11,
+      "year_curr": 2022,
+      "count_curr": 11,
+      "year_prev": 2021,
+      "count_prev": 25
+    },
+    {
+      "month": 12,
+      "year_curr": 2022,
+      "count_curr": 82,
+      "year_prev": 2021,
+      "count_prev": 31
+    }
+  ]
+}
