@@ -20,7 +20,7 @@ class ChartServiceTest {
 
     whenever(s3Facade.getFile(chart.fileName)).thenReturn(fileContent)
 
-    val chart = chartService.getChart(agencyId = "ACI", chart = chart)
+    val chart = chartService.getChart(agencyId = "ACI", chart = chart, characteristic = null)
     assertThat(chart).isNotEmpty
   }
 }

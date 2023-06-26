@@ -10,12 +10,16 @@ import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 @Service
 class ChartService(private val s3Facade: S3Facade) {
 
-  fun getChart(agencyId: String, chart: Chart): List<Map<String, Any>> {
+  fun getChart(agencyId: String, chart: Chart, characteristic: String?): List<Map<String, Any>> {
     val fileAsString = this.s3Facade.getFile(chart.fileName)
     val items: Map<String, List<Map<String, Any>>> =
       Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<Map<String, Any>>>>() {}.type)
 
-    return items[agencyId].orEmpty()
+    val result = items[agencyId].orEmpty()
+    if (characteristic != null) {
+      return result.filter { it.get("characteristic") == characteristic }
+    }
+    return result
   }
 
   companion object {
