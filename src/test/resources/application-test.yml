@@ -5,26 +5,6 @@ management.endpoint:
   health.cache.time-to-live: 0
   info.cache.time-to-live: 0
 
-# Localstack settings
-# Default access key and secret_access_key are for SQS
-#aws:
-#  region-name: eu-west-2
-#  endpoint-url: "http://localhost:4566"
-#  access_key: foobar
-#  secret_access_key: foobar
-#  s3:
-#    access_key: foobar
-#    secret_access_key: foobar
-#    bucket_name: mojap-adjudications-insights
 
 
-aws:
-  region-name: eu-west-2
-  endpoint-url: "http://localhost:4566"
-  access_key: foobar
-  secret_access_key: foobar
-  s3:
-    access_key: foobar
-    secret_access_key: foobar
-    bucket_name: mojap-adjudications-insights
 
