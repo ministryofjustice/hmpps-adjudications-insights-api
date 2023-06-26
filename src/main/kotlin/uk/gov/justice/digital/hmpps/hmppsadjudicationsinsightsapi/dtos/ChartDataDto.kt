@@ -18,6 +18,12 @@ data class ChartDataResponseDto(
   val chartName: String,
 
   @Schema(
+    description = "Characteristic type",
+    example = "disability,ethnic_group,religion_group,sex_orientation",
+  )
+  val characteristic: String?,
+
+  @Schema(
     description = "List of chart data details",
   )
   val chartEntries: List<Map<String, Any>>,
