@@ -52,4 +52,4 @@ management:
 
 data-insights:
   bucket:
-    name: mojap-adjudications-insights
+    name: ${DATA-INSIGHTS_BUCKET_NAME:mojap-adjudications-insights}
