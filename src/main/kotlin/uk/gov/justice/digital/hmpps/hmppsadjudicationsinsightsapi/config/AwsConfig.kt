@@ -11,8 +11,5 @@ import org.springframework.context.annotation.Profile
 class AwsConfig {
 
   @Bean
-  fun amazonS3(): AmazonS3? {
-    return AmazonS3ClientBuilder.standard()
-      .build()
-  }
+  fun amazonS3(): AmazonS3? = AmazonS3ClientBuilder.standard().build()
 }
