@@ -30,6 +30,8 @@ generic-service:
   namespace_secrets:
     hmpps-adjudications-insights-api:
       APPINSIGHTS_INSTRUMENTATIONKEY: "APPINSIGHTS_INSTRUMENTATIONKEY"
+    analytical-platform-s3-bucket-output:
+      DATA-INSIGHTS_BUCKET_NAME: "bucket_name"
 
   allowlist:
     office: "217.33.148.210/32"
