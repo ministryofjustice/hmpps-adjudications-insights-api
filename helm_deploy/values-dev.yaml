@@ -4,6 +4,8 @@
 generic-service:
   replicaCount: 2
 
+  serviceAccountName: hmpps-manage-adjudications-api-dev-analytical-platform
+
   ingress:
     host: adjudications-insights-api-dev.hmpps.service.justice.gov.uk
 

@@ -1,8 +1,6 @@
 ---
 generic-service:
   nameOverride: hmpps-adjudications-insights-api
-  serviceAccountName: hmpps-manage-adjudications-api
-
 
   replicaCount: 4
 
