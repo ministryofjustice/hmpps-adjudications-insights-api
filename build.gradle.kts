@@ -9,7 +9,7 @@ configurations {
 
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-webflux")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.498")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.501")
   implementation("io.swagger:swagger-annotations:1.6.11")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")
   implementation("com.google.code.gson:gson:2.10.1")
