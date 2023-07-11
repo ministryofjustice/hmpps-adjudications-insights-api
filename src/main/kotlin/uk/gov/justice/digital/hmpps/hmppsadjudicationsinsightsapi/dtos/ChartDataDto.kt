@@ -68,8 +68,8 @@ data class ChartDataDto(
 enum class Chart(val chartName: String, val fileName: String, val tabName: String, val description: String) {
   CHART_1A("1a", "chart/1a.json", "Totals - adjudications and locations", "Total adjudications - over 24 months"),
   CHART_1B("1b", "chart/1b.json", "Totals - adjudications and locations", "Total adjudications referred to independent adjudicator – over 24 months"),
-  CHART_1C("1c", "chart/1c.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence - last 30 days"),
-  CHART_1D("1d", "chart/1d.json", "Totals - adjudications and locations", "Total adjudications by location of rule-breaking offence"),
+  CHART_1C("1c", "chart/1c.json", "Totals - adjudications and locations", "Number of people with an adjudication in the past 30 days"),
+  CHART_1D("1d", "chart/1d.json", "Totals - adjudications and locations", "Total adjudications by location of adjudication offence – last 30 days"),
   CHART_1F("1f", "chart/1f.json", "Totals - adjudications and locations", "Total adjudications by residential location of offender"),
 
   CHART_2A("2a", "chart/2a.json", "Protected characteristics and vulnerabilities", "Percentage and number of prisoners in the establishment by {{ religion }} currently"),
