@@ -5,9 +5,9 @@ generic-service:
   ingress:
     host: adjudications-insights-api.hmpps.service.justice.gov.uk
 
-    env:
-      APPLICATIONINSIGHTS_CONFIGURATION_FILE: applicationinsights.json
-      S3_REGION: "eu-west-1"
+  env:
+    APPLICATIONINSIGHTS_CONFIGURATION_FILE: applicationinsights.json
+    S3_REGION: "eu-west-1"
 
 
 # CloudPlatform AlertManager receiver to route prometheus alerts to slack
