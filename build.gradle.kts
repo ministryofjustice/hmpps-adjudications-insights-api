@@ -9,6 +9,9 @@ configurations {
 
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-webflux")
+  implementation("org.springframework.boot:spring-boot-starter-security")
+  implementation("org.springframework.boot:spring-boot-starter-oauth2-resource-server")
+  implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
   implementation("com.amazonaws:aws-java-sdk-s3:1.12.503")
   implementation("io.swagger:swagger-annotations:1.6.11")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")

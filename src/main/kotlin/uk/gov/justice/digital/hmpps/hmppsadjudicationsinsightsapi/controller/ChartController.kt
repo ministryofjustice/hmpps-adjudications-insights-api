@@ -1,5 +1,6 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.controller
 
+import org.springframework.security.access.prepost.PreAuthorize
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RequestMapping
@@ -13,6 +14,7 @@ import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service.ChartS
 @RequestMapping("/api/data-insights/chart")
 class ChartController(private val chartService: ChartService) {
 
+  @PreAuthorize("hasRole('VIEW_ADJUDICATIONS_INSIGHTS')")
   @GetMapping("/{agencyId}/{chartName}")
   fun getChart(
     @PathVariable(name = "agencyId") agencyId: String,
