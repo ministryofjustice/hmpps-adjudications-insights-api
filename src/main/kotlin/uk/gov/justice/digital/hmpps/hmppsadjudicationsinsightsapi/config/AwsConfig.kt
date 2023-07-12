@@ -4,6 +4,7 @@ import com.amazonaws.auth.DefaultAWSCredentialsProviderChain
 import com.amazonaws.regions.Regions
 import com.amazonaws.services.s3.AmazonS3
 import com.amazonaws.services.s3.AmazonS3ClientBuilder
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.context.annotation.Profile
@@ -13,7 +14,9 @@ import org.springframework.context.annotation.Profile
 class AwsConfig {
 
   @Bean
-  fun amazonS3(): AmazonS3? = AmazonS3ClientBuilder.standard().withCredentials(
+  fun amazonS3(
+    @Value("\${data-insights.bucket.region}") region: String,
+  ): AmazonS3? = AmazonS3ClientBuilder.standard().withCredentials(
     DefaultAWSCredentialsProviderChain(),
-  ).withRegion(Regions.EU_WEST_2).build()
+  ).withRegion(region).build()
 }
