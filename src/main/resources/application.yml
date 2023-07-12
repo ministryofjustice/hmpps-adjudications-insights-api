@@ -12,14 +12,14 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          jwk-set-uri: ${api.base.url.oauth}/.well-known/jwks.json
+          jwk-set-uri: ${oauth.endpoint.url}/.well-known/jwks.json
         issuer:
           name:
-            uri: ${api.base.url.oauth}/auth/issuer
-            jwk-set-uri: ${api.base.url.oauth}/.well-known/jwks.json
+            uri: ${oauth.endpoint.url}/auth/issuer
+            jwk-set-uri: ${oauth.endpoint.url}/.well-known/jwks.json
         provider:
           hmpps-auth:
-            token-uri: ${api.base.url.oauth}//auth/oauth/token
+            token-uri: ${oauth.endpoint.url}//auth/oauth/token
 
   jackson:
     date-format: "yyyy-MM-dd HH:mm:ss"
