@@ -26,9 +26,8 @@ abstract class IntegrationTestBase {
     contentType: MediaType = MediaType.APPLICATION_JSON,
     username: String? = "ITAG_USER",
     roles: List<String> = emptyList(),
-    activeCaseload: String? = "MDI",
   ): (HttpHeaders) -> Unit = {
-    it.setBearerAuth(jwtAuthHelper.createJwt(subject = username, roles = roles, scope = listOf("write")))
+    it.setBearerAuth(jwtAuthHelper.createJwt(subject = username, roles = roles))
     it.contentType = contentType
   }
 }
