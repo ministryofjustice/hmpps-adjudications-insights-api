@@ -39,6 +39,7 @@ class ChartControllerTest : IntegrationTestBase() {
 
     webTestClient.get()
       .uri("/api/data-insights/chart/ACI/1a")
+      .headers(setHeaders())
       .exchange()
       .expectStatus()
       .isOk
@@ -54,6 +55,7 @@ class ChartControllerTest : IntegrationTestBase() {
 
     webTestClient.get()
       .uri("/api/data-insights/chart/ACI/1a?characteristic?ethnic_group")
+      .headers(setHeaders())
       .exchange()
       .expectStatus()
       .isOk

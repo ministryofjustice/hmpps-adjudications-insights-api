@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler
 import org.springframework.web.bind.annotation.RestControllerAdvice
 
 @RestControllerAdvice
-class HmppsAdjudicationsInsightsApiExceptionHandler {
+class ApiExceptionHandler {
   @ExceptionHandler(ValidationException::class)
   fun handleValidationException(e: Exception): ResponseEntity<ErrorResponse> {
     log.info("Validation exception: {}", e.message)
