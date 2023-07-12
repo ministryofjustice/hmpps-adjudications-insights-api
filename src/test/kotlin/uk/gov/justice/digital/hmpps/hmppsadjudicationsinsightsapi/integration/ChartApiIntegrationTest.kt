@@ -11,6 +11,7 @@ class ChartApiIntegrationTest : IntegrationTestBase() {
   fun `get chart by name`(chart: Chart) {
     webTestClient.get()
       .uri("/api/data-insights/chart/MDI/${chart.chartName}")
+      .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS_INSIGHTS")))
       .exchange()
       .expectStatus().is2xxSuccessful
   }
