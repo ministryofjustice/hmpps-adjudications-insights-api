@@ -15,7 +15,7 @@ class AwsConfigLocalstack {
   fun amazonS3(): AmazonS3? {
     return AmazonS3ClientBuilder.standard()
       .withEndpointConfiguration(
-        AwsClientBuilder.EndpointConfiguration("http://s3.localhost.localstack.cloud:4566", "eu-west-2"),
+        AwsClientBuilder.EndpointConfiguration("http://s3.localhost.localstack.cloud:4566", "eu-west-1"),
       )
       .build()
   }
