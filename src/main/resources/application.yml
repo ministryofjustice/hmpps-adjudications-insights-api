@@ -66,4 +66,4 @@ management:
 data-insights:
   bucket:
     name: ${DATA-INSIGHTS_BUCKET_NAME:mojap-adjudications-insights}
-    region: ${S3_REGION:eu-west-1}
+    region: ${S3_REGION:eu-west-2}
