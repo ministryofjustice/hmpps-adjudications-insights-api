@@ -31,12 +31,10 @@ class OpenApiConfiguration(
   fun customOpenAPI(): OpenAPI = OpenAPI()
     .servers(
       listOf(
-        Server().url("/").description("Current url"),
-      ),
-    )
-    .tags(
-      listOf(
-        Tag().name("01. Adjudication Insights"),
+        Server().url("https://adjudications-insights-api-dev.hmpps.service.justice.gov.uk").description("Development"),
+        Server().url("https://adjudications-insights-api-preprod.hmpps.service.justice.gov.uk").description("PreProd"),
+        Server().url("https://adjudications-insights-api.hmpps.service.justice.gov.uk").description("Prod"),
+        Server().url("http://localhost:8080").description("Local"),
       ),
     )
     .info(
@@ -62,7 +60,7 @@ class OpenApiConfiguration(
           .name("Authorization"),
       ),
     )
-    .addSecurityItem(SecurityRequirement().addList("bearer-jwt"))
+    .addSecurityItem(SecurityRequirement().addList("bearer-jwt", listOf("read", "write")))
 
   @Bean
   fun openAPICustomiser(): OpenApiCustomizer = OpenApiCustomizer {
