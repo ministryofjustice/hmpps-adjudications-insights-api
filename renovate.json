@@ -11,7 +11,7 @@
     },
     {
       "matchManagers": ["gradle"],
-      "minimumReleaseAge": 3
+      "minimumReleaseAge": "3 days"
     }
   ]
 }

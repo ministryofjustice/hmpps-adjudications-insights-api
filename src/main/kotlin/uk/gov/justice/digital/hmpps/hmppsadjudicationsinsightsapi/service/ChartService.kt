@@ -2,8 +2,6 @@ package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import org.slf4j.Logger
-import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 
@@ -17,12 +15,8 @@ class ChartService(private val s3Facade: S3Facade) {
 
     val result = items[agencyId].orEmpty()
     if (characteristic != null) {
-      return result.filter { it.get("characteristic") == characteristic }
+      return result.filter { it["characteristic"] == characteristic }
     }
     return result
-  }
-
-  companion object {
-    val log: Logger = LoggerFactory.getLogger(this::class.java)
   }
 }

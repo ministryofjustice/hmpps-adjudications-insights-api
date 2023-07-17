@@ -63,15 +63,6 @@ class OpenApiConfiguration(
 
   @Bean
   fun openAPICustomiser(): OpenApiCustomizer = OpenApiCustomizer {
-    it.paths.forEach { (_, path: PathItem) ->
-      path.readOperations().forEach { operation ->
-        operation.responses.default = createErrorApiResponse("Unexpected error")
-        operation.responses.addApiResponse("401", createErrorApiResponse("Unauthorized"))
-        operation.responses.addApiResponse("403", createErrorApiResponse("Forbidden"))
-        operation.responses.addApiResponse("406", createErrorApiResponse("Not able to process the request because the header “Accept” does not match with any of the content types this endpoint can handle"))
-        operation.responses.addApiResponse("429", createErrorApiResponse("Too many requests"))
-      }
-    }
     it.components.schemas.forEach { (_, schema: Schema<*>) ->
       schema.additionalProperties = false
       val properties = schema.properties ?: mutableMapOf()
@@ -89,16 +80,5 @@ class OpenApiConfiguration(
         }
       }
     }
-  }
-
-  private fun createErrorApiResponse(message: String): ApiResponse {
-    val errorResponseSchema = Schema<Any>()
-    errorResponseSchema.name = "ErrorResponse"
-    errorResponseSchema.`$ref` = "#/components/schemas/ErrorResponse"
-    return ApiResponse()
-      .description(message)
-      .content(
-        Content().addMediaType(MediaType.APPLICATION_JSON_VALUE, io.swagger.v3.oas.models.media.MediaType().schema(errorResponseSchema)),
-      )
   }
 }
