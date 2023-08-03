@@ -1,6 +1,7 @@
 ---
 generic-service:
   nameOverride: hmpps-adjudications-insights-api
+  productId: "DPS001"
 
   replicaCount: 4
 
