@@ -7,6 +7,7 @@ import org.junit.jupiter.params.provider.EnumSource
 import org.mockito.kotlin.mock
 import org.mockito.kotlin.whenever
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
+import java.util.*
 
 class ChartServiceTest {
 
@@ -28,7 +29,9 @@ class ChartServiceTest {
   @EnumSource(Chart::class)
   @ParameterizedTest
   fun `get S3 Bucket metadata of Chart`(chart: Chart) {
-    whenever(s3Facade.getS3ObjectMetadata(chart.fileName)).thenReturn(ObjectMetadata())
+    val objectMetadata = ObjectMetadata()
+    objectMetadata.lastModified = Date()
+    whenever(s3Facade.getS3ObjectMetadata(chart.fileName)).thenReturn(objectMetadata)
 
     val s3ObjectMetadata = chartService.getS3ObjectMetaData(chart = chart)
     assertThat(s3ObjectMetadata).isNotNull

@@ -51,7 +51,7 @@ class ChartControllerTest : IntegrationTestBase() {
 
   @Test
   fun `Get chart metatadata info by chart name`() {
-    val chartMetadataDto = ChartMetadataDto("1a", LocalDateTime.now())
+    val chartMetadataDto = ChartMetadataDto("1a", LocalDateTime.of(2023, 8, 15, 8, 6, 7))
     whenever(chartService.getS3ObjectMetaData(any())).thenReturn(chartMetadataDto)
 
     webTestClient.get()
