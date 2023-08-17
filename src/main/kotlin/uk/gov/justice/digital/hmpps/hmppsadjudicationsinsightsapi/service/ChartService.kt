@@ -1,5 +1,6 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
+import com.amazonaws.services.s3.model.ObjectMetadata
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import org.springframework.stereotype.Service
@@ -14,5 +15,9 @@ class ChartService(private val s3Facade: S3Facade) {
       Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<Map<String, Any>>>>() {}.type)
 
     return items[agencyId].orEmpty()
+  }
+
+  fun getS3ObjectMetaData(chart: Chart): ObjectMetadata {
+    return this.s3Facade.getS3ObjectMetadata(chart.fileName)
   }
 }

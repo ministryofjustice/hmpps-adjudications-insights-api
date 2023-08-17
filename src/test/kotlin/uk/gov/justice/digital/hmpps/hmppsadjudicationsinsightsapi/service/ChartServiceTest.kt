@@ -1,5 +1,6 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
+import com.amazonaws.services.s3.model.ObjectMetadata
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.EnumSource
@@ -20,7 +21,17 @@ class ChartServiceTest {
 
     whenever(s3Facade.getFile(chart.fileName)).thenReturn(fileContent)
 
-    val chart = chartService.getChart(agencyId = "ACI", chart = chart)
-    assertThat(chart).isNotEmpty
+    val chartDetails = chartService.getChart(agencyId = "ACI", chart = chart)
+    assertThat(chartDetails).isNotEmpty
+  }
+
+  @EnumSource(Chart::class)
+  @ParameterizedTest
+  fun `get S3 Bucket metadata of Chart`(chart: Chart) {
+
+    whenever(s3Facade.getS3ObjectMetadata(chart.fileName)).thenReturn(ObjectMetadata())
+
+    val s3ObjectMetadata = chartService.getS3ObjectMetaData(chart = chart)
+    assertThat(s3ObjectMetadata).isNotNull
   }
 }
