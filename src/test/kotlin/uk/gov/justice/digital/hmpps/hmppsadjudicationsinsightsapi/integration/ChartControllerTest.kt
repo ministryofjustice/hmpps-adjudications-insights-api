@@ -55,7 +55,7 @@ class ChartControllerTest : IntegrationTestBase() {
     whenever(chartService.getS3ObjectMetaData(any())).thenReturn(chartMetadataDto)
 
     webTestClient.get()
-      .uri("/api/data-insights/chart/1a")
+      .uri("/api/data-insights/chart/last-updated/1a")
       .headers(setHeaders())
       .exchange()
       .expectStatus()

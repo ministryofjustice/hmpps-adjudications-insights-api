@@ -29,7 +29,7 @@ class ChartController(private val chartService: ChartService) {
     )
   }
 
-  @GetMapping("/{chartName}")
+  @GetMapping("/last-updated/{chartName}")
   fun lastUpdated(
     @PathVariable(name = "chartName") chartName: String,
   ): ChartMetadataDto {

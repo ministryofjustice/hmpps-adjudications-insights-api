@@ -22,7 +22,7 @@ class ChartApiIntegrationTest : IntegrationTestBase() {
   @ParameterizedTest
   fun `get chart metadata by name`(chart: Chart) {
     val response = webTestClient.get()
-      .uri("/api/data-insights/chart/${chart.chartName}")
+      .uri("/api/data-insights/chart/last-updated/${chart.chartName}")
       .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS_INSIGHTS")))
       .exchange()
       .expectStatus().is2xxSuccessful
