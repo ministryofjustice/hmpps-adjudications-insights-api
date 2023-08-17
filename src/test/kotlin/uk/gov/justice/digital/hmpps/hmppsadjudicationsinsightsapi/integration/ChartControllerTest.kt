@@ -1,13 +1,13 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.integration
 
-import com.amazonaws.services.s3.model.ObjectMetadata
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import org.mockito.kotlin.any
 import org.mockito.kotlin.whenever
 import org.springframework.boot.test.mock.mockito.MockBean
+import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartMetadataDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service.ChartService
-import java.text.SimpleDateFormat
+import java.time.LocalDateTime
 
 class ChartControllerTest : IntegrationTestBase() {
 
@@ -51,11 +51,8 @@ class ChartControllerTest : IntegrationTestBase() {
 
   @Test
   fun `Get chart metatadata info by chart name`() {
-    val dateStr = "2023-08-17 12:30:45"
-    val sdf = SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
-    val objectMetadata = ObjectMetadata()
-    objectMetadata.lastModified = sdf.parse(dateStr)
-    whenever(chartService.getS3ObjectMetaData(any())).thenReturn(objectMetadata)
+    val chartMetadataDto = ChartMetadataDto("1a", LocalDateTime.now())
+    whenever(chartService.getS3ObjectMetaData(any())).thenReturn(chartMetadataDto)
 
     webTestClient.get()
       .uri("/api/data-insights/chart/1a")
@@ -65,6 +62,6 @@ class ChartControllerTest : IntegrationTestBase() {
       .isOk
       .expectBody()
       .jsonPath("chartName").isEqualTo("1a")
-      .jsonPath("lastModifiedDate").isEqualTo("2023-08-17T12:30:45")
+      .jsonPath("lastModifiedDate").isNotEmpty
   }
 }

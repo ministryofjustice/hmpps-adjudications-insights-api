@@ -8,7 +8,6 @@ import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataResponseDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartMetadataDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service.ChartService
-import java.time.ZoneId
 
 @RestController
 @RequestMapping("/api/data-insights/chart")
@@ -34,13 +33,8 @@ class ChartController(private val chartService: ChartService) {
   fun getS3ObjectMetaData(
     @PathVariable(name = "chartName") chartName: String,
   ): ChartMetadataDto {
-    val s3ObjectMetaData = chartService.getS3ObjectMetaData(
+    return chartService.getS3ObjectMetaData(
       chart = Chart.getChart(chartName),
-    )
-
-    return ChartMetadataDto(
-      chartName = chartName,
-      lastModifiedDate = s3ObjectMetaData.lastModified.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime(),
     )
   }
 }
