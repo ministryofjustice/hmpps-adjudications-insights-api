@@ -51,12 +51,11 @@ class ChartControllerTest : IntegrationTestBase() {
 
   @Test
   fun `Get chart metatadata info by chart name`() {
-
     val dateStr = "2023-08-17 12:30:45"
     val sdf = SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
     val objectMetadata = ObjectMetadata()
     objectMetadata.lastModified = sdf.parse(dateStr)
-    whenever(chartService.getS3ObjectMetaData(any()),).thenReturn(objectMetadata)
+    whenever(chartService.getS3ObjectMetaData(any())).thenReturn(objectMetadata)
 
     webTestClient.get()
       .uri("/api/data-insights/chart/1a")

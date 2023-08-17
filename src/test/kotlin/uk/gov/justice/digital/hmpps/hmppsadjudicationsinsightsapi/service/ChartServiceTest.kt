@@ -28,7 +28,6 @@ class ChartServiceTest {
   @EnumSource(Chart::class)
   @ParameterizedTest
   fun `get S3 Bucket metadata of Chart`(chart: Chart) {
-
     whenever(s3Facade.getS3ObjectMetadata(chart.fileName)).thenReturn(ObjectMetadata())
 
     val s3ObjectMetadata = chartService.getS3ObjectMetaData(chart = chart)
