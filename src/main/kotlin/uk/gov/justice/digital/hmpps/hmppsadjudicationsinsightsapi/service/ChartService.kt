@@ -4,6 +4,8 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
+import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartMetadataDto
+import java.time.ZoneId
 
 @Service
 class ChartService(private val s3Facade: S3Facade) {
@@ -14,5 +16,13 @@ class ChartService(private val s3Facade: S3Facade) {
       Gson().fromJson(fileAsString, object : TypeToken<Map<String, List<Map<String, Any>>>>() {}.type)
 
     return items[agencyId].orEmpty()
+  }
+
+  fun getS3ObjectMetaData(chart: Chart): ChartMetadataDto {
+    val s3Metadata = this.s3Facade.getS3ObjectMetadata(chart.fileName)
+    return ChartMetadataDto(
+      chartName = chart.fileName,
+      lastModifiedDate = s3Metadata.lastModified.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime(),
+    )
   }
 }

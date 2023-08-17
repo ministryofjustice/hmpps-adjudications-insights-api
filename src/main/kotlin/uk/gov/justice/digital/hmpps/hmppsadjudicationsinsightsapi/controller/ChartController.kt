@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartDataResponseDto
+import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartMetadataDto
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service.ChartService
 
 @RestController
@@ -25,6 +26,15 @@ class ChartController(private val chartService: ChartService) {
       agencyId = agencyId,
       chartName = chartName,
       chartEntries = chart,
+    )
+  }
+
+  @GetMapping("/last-updated/{chartName}")
+  fun lastUpdated(
+    @PathVariable(name = "chartName") chartName: String,
+  ): ChartMetadataDto {
+    return chartService.getS3ObjectMetaData(
+      chart = Chart.getChart(chartName),
     )
   }
 }
