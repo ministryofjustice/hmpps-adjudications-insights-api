@@ -25,7 +25,7 @@ abstract class IntegrationTestBase {
   fun setHeaders(
     contentType: MediaType = MediaType.APPLICATION_JSON,
     username: String? = "ITAG_USER",
-    roles: List<String> = emptyList(),
+    roles: List<String> = listOf("ROLE_VIEW_ADJUDICATIONS"),
   ): (HttpHeaders) -> Unit = {
     it.setBearerAuth(jwtAuthHelper.createJwt(subject = username, roles = roles))
     it.contentType = contentType
