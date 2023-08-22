@@ -4,7 +4,6 @@ import io.swagger.v3.oas.annotations.media.Schema
 
 @Schema(description = "Details of a chart data entry")
 data class ChartDataResponseDto(
-
   @Schema(
     description = "Prison agency ID",
     example = "ACI",
@@ -21,42 +20,6 @@ data class ChartDataResponseDto(
     description = "List of chart data details",
   )
   val chartEntries: List<Map<String, Any>>,
-
-)
-
-@Schema(description = "Chart data details")
-data class ChartDataDto(
-
-  @Schema(
-    description = "Month number, 1-12",
-    example = "1",
-  )
-  val month: Int,
-
-  @Schema(
-    description = "Current year",
-    example = "2023",
-  )
-  val year_curr: Int,
-
-  @Schema(
-    description = "Previous year",
-    example = "2022",
-  )
-  val year_prev: Int,
-
-  @Schema(
-    description = "Value for current year",
-    example = "100",
-  )
-  val count_curr: Int,
-
-  @Schema(
-    description = "Value for previous year",
-    example = "77",
-  )
-  val count_prev: Int,
-
 )
 
 enum class Chart(val chartName: String, val fileName: String, val tabName: String, val description: String) {
@@ -79,12 +42,13 @@ enum class Chart(val chartName: String, val fileName: String, val tabName: Strin
   CHART_4A("4a", "chart/4a.json", "Punishments", "Punishments given – current month and previous 12 months"),
   CHART_4B("4b", "chart/4b.json", "Punishments", "Punishments given for each adjudication offence type - current month and previous 12 months"),
   CHART_4C("4c", "chart/4c.json", "Punishments", "Suspended and activated punishments - current month and last 12 months"),
+  CHART_4D("4d", "chart/4d.json", "Punishments", "Most commonly used punishments last month"),
 
   CHART_5A("5a", "chart/5a.json", "Pleas and findings", "Pleas given – current month and previous 12 months"),
   CHART_5B("5b", "chart/5b.json", "Pleas and findings", "Findings – current month and previous 12 months"),
   CHART_5C("5c", "chart/5c.json", "Pleas and findings", "Adjudications resolved with more than one hearing – current month and previous 12 months "),
   ;
   companion object {
-    fun getChart(chartName: String) = Chart.values().first { it.chartName == chartName }
+    fun getChart(chartName: String) = entries.first { it.chartName == chartName }
   }
 }

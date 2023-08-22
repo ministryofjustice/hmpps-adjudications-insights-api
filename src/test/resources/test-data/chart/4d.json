@@ -1,0 +1,752 @@
+{
+  "ACI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.29
+    }
+  ],
+  "AGI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.28
+    }
+  ],
+  "ASI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.39
+    }
+  ],
+  "AYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.31
+    }
+  ],
+  "BAI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.06
+    }
+  ],
+  "BCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.04
+    }
+  ],
+  "BFI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.37
+    }
+  ],
+  "BLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.39
+    }
+  ],
+  "BMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.27
+    }
+  ],
+  "BNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.19
+    }
+  ],
+  "BRI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.25
+    }
+  ],
+  "BSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.14
+    }
+  ],
+  "BWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "BXI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.1
+    }
+  ],
+  "BZI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.08
+    }
+  ],
+  "CDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.24
+    }
+  ],
+  "CFI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "CKI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "CLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.43
+    }
+  ],
+  "CWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.05
+    }
+  ],
+  "DAI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.15
+    }
+  ],
+  "DGI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "DHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.04
+    }
+  ],
+  "DMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.1
+    }
+  ],
+  "DNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.13
+    }
+  ],
+  "DTI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.2
+    }
+  ],
+  "DWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.14
+    }
+  ],
+  "EEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.09
+    }
+  ],
+  "EHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.44
+    }
+  ],
+  "ESI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.34
+    }
+  ],
+  "EWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.13
+    }
+  ],
+  "EXI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.25
+    }
+  ],
+  "EYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.17
+    }
+  ],
+  "FBI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.49
+    }
+  ],
+  "FDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.49
+    }
+  ],
+  "FEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.47
+    }
+  ],
+  "FHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.33
+    }
+  ],
+  "FKI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.3
+    }
+  ],
+  "FMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.3
+    }
+  ],
+  "FNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.28
+    }
+  ],
+  "FSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "FWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.3
+    }
+  ],
+  "FYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.24
+    }
+  ],
+  "GHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "GMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.03
+    }
+  ],
+  "GNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.27
+    }
+  ],
+  "GTI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.31
+    }
+  ],
+  "HBI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "HCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.07
+    }
+  ],
+  "HDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "HEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.06
+    }
+  ],
+  "HHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.1
+    }
+  ],
+  "HII": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.49
+    }
+  ],
+  "HLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "HMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "HOI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.01
+    }
+  ],
+  "HPI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.38
+    }
+  ],
+  "HVI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.11
+    }
+  ],
+  "ISI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.22
+    }
+  ],
+  "IWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.23
+    }
+  ],
+  "KMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.34
+    }
+  ],
+  "KVI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.07
+    }
+  ],
+  "LCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.08
+    }
+  ],
+  "LEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "LFI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "LGI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.41
+    }
+  ],
+  "LHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.31
+    }
+  ],
+  "LII": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.33
+    }
+  ],
+  "LLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.39
+    }
+  ],
+  "LNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "LPI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.49
+    }
+  ],
+  "LTI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.23
+    }
+  ],
+  "LWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.17
+    }
+  ],
+  "LYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.21
+    }
+  ],
+  "MDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.27
+    }
+  ],
+  "MHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.09
+    }
+  ],
+  "MRI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.28
+    }
+  ],
+  "MSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.39
+    }
+  ],
+  "MTI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.33
+    }
+  ],
+  "NHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.45
+    }
+  ],
+  "NLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.19
+    }
+  ],
+  "NMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.43
+    }
+  ],
+  "NSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.32
+    }
+  ],
+  "NWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.34
+    }
+  ],
+  "ONI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.44
+    }
+  ],
+  "OWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.2
+    }
+  ],
+  "PBI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.25
+    }
+  ],
+  "PDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ],
+  "PFI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.22
+    }
+  ],
+  "PNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.2
+    }
+  ],
+  "PRI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.14
+    }
+  ],
+  "PVI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.33
+    }
+  ],
+  "PYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.24
+    }
+  ],
+  "RCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.24
+    }
+  ],
+  "RHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.01
+    }
+  ],
+  "RNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.29
+    }
+  ],
+  "RSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.45
+    }
+  ],
+  "SDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.36
+    }
+  ],
+  "SFI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.38
+    }
+  ],
+  "SHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.26
+    }
+  ],
+  "SKI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.04
+    }
+  ],
+  "SLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.22
+    }
+  ],
+  "SNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.47
+    }
+  ],
+  "SPI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.11
+    }
+  ],
+  "STI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.06
+    }
+  ],
+  "SUI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.24
+    }
+  ],
+  "SWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.18
+    }
+  ],
+  "TCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.16
+    }
+  ],
+  "TSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.22
+    }
+  ],
+  "UKI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.43
+    }
+  ],
+  "UPI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.16
+    }
+  ],
+  "VEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.21
+    }
+  ],
+  "WCI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.2
+    }
+  ],
+  "WDI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.19
+    }
+  ],
+  "WEI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.36
+    }
+  ],
+  "WHI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.23
+    }
+  ],
+  "WII": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.09
+    }
+  ],
+  "WLI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.28
+    }
+  ],
+  "WMI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.5
+    }
+  ],
+  "WNI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.1
+    }
+  ],
+  "WRI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.11
+    }
+  ],
+  "WSI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.33
+    }
+  ],
+  "WTI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.41
+    }
+  ],
+  "WWI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.17
+    }
+  ],
+  "WYI": [
+    {
+      "sanction": "Top Sanction",
+      "proportion": 0.46
+    }
+  ]
+}
