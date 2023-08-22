@@ -42,3 +42,24 @@ The `rename-project.bash` script takes a single argument - the name of the proje
 * The main package name (project name with hyphens removed)
 
 It then performs a search and replace and directory renames so the project is ready to be used.
+
+## Upload Chart json file to s3 bucket.
+
+Please follow the steps below to deploy:
+
+1. Open Terminal
+2. Check Service Pod Status, Ensure that the service pod is up and running: 
+     ```kubectl get pods -n <<NAME_SPACE>>```
+3. Copy Chart Files to Service Pod, Use the following command to copy your chart files to the service pod:
+     ```kubectl cp <<REPO_LOCATION>>/hmpps-adjudications-insights-api/src/test/resources/test-data <<NAME_SPACE>>/<<SERVICE_POD_NAME>>:/tmp```
+4. Access the Service Pod, Exec into the service pod with: 
+    ```kubectl exec -it <<SERVICE_POD_NAME>> -n <<NAME_SPACE>> -- /bin/sh```
+5. Navigate to Directory The charts can be found in the `/tmp/test-data` directory. To navigate there, use:  ```cd /tmp/test-data```
+6. Copy Files to S3 Bucket. Use the following command to sync your files to the desired S3 bucket: 
+   ```aws s3 sync . s3://<<BUCKET_NAME>>```
+   
+NOTE: Make sure to replace placeholders like `<<NAME_SPACE>>`, `<<SERVICE_POD_NAME>>`, and `<<BUCKET_NAME>>` with appropriate values before running the commands.
+
+
+
+
