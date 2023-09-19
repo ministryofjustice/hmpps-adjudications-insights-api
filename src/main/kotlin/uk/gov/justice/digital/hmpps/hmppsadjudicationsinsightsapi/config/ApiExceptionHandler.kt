@@ -1,5 +1,6 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.config
 
+import com.amazonaws.services.s3.model.AmazonS3Exception
 import com.fasterxml.jackson.annotation.JsonInclude
 import io.swagger.v3.oas.annotations.media.Schema
 import jakarta.validation.ValidationException
@@ -36,6 +37,20 @@ class ApiExceptionHandler {
         ErrorResponse(
           status = INTERNAL_SERVER_ERROR,
           userMessage = "Unexpected error: ${e.message}",
+          developerMessage = e.message,
+        ),
+      )
+  }
+
+  @ExceptionHandler(AmazonS3Exception::class)
+  fun handleValidationAmazonS3Exception(e: AmazonS3Exception): ResponseEntity<ErrorResponse> {
+    log.info("Amazon S3 Bucket exception: {}", e.message)
+    return ResponseEntity
+      .status(INTERNAL_SERVER_ERROR)
+      .body(
+        ErrorResponse(
+          status = INTERNAL_SERVER_ERROR,
+          userMessage = "Amazon S3 Bucket failure: ${e.message}",
           developerMessage = e.message,
         ),
       )
