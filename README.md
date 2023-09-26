@@ -60,7 +60,7 @@ Please follow the steps below to deploy:
    
 NOTE: Make sure to replace placeholders like `<<NAME_SPACE>>`, `<<SERVICE_POD_NAME>>`, and `<<BUCKET_NAME>>` with appropriate values before running the commands.
 
-### Running the service:
+## Running the service
 
 Run localstack by running the below docker compose:
 
