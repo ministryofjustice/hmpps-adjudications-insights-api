@@ -60,6 +60,26 @@ Please follow the steps below to deploy:
    
 NOTE: Make sure to replace placeholders like `<<NAME_SPACE>>`, `<<SERVICE_POD_NAME>>`, and `<<BUCKET_NAME>>` with appropriate values before running the commands.
 
+### Running the service:
+
+Run localstack by running the below docker compose:
+
+```bash
+docker-compose up
+```
+
+### Running the tests
+
+With localstack now up and running, run:
+```bash
+./gradlew test
+```
+
+To run the app, the following profiles need to be enabled: 'dev,localstack,local'
+therefore with gradle, run:
+```bash
+./gradlew bootRun --args='--spring.profiles.active=localstack,local'
+```
 
 
 
