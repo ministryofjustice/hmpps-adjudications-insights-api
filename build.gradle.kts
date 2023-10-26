@@ -18,16 +18,16 @@ dependencies {
   implementation("org.springframework.boot:spring-boot-starter-oauth2-resource-server")
   implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
 
-  implementation("io.swagger:swagger-annotations:1.6.11")
-  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0")
+  implementation("io.swagger:swagger-annotations:1.6.12")
+  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0")
   implementation("com.google.code.gson:gson:2.10.1")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.518")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.518")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.571")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.571")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
-  testImplementation("io.jsonwebtoken:jjwt-impl:0.11.5")
-  testImplementation("io.jsonwebtoken:jjwt-jackson:0.11.5")
+  testImplementation("io.jsonwebtoken:jjwt-impl:0.12.3")
+  testImplementation("io.jsonwebtoken:jjwt-jackson:0.12.3")
 }
 
 java {
