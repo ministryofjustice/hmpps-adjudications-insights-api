@@ -19,10 +19,10 @@ dependencies {
   implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
 
   implementation("io.swagger:swagger-annotations:1.6.12")
-  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0")
+  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0")
   implementation("com.google.code.gson:gson:2.10.1")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.603")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.603")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.609")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.609")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
