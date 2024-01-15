@@ -48,6 +48,7 @@ enum class Chart(val chartName: String, val fileName: String, val tabName: Strin
   CHART_5B("5b", "chart/5b.json", "Pleas and findings", "Findings – current month and previous 12 months"),
   CHART_5C("5c", "chart/5c.json", "Pleas and findings", "Adjudications resolved with more than one hearing – current month and previous 12 months "),
   ;
+
   companion object {
     fun getChart(chartName: String) = entries.first { it.chartName == chartName }
   }
