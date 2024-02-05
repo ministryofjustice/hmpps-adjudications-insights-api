@@ -15,13 +15,13 @@ class S3Facade(
 
   fun getFile(fileName: String): String {
     log.info("getting $bucketName $fileName")
-
     return amazonS3.getObjectAsString(bucketName, fileName)
   }
 
   fun getS3ObjectMetadata(fileName: String): ObjectMetadata {
     return amazonS3.getObjectMetadata(bucketName, fileName)
   }
+
   companion object {
     val log: Logger = LoggerFactory.getLogger(this::class.java)
   }
