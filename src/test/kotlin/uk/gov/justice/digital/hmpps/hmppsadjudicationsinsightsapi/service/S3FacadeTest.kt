@@ -23,7 +23,6 @@ class S3FacadeTest {
     val fileName = "1a.json"
 
     whenever(amazonS3.getObjectAsString(eq(bucketName), eq(fileName))).thenReturn("<file content>")
-    whenever(amazonS3.getObjectMetadata(eq(bucketName), eq(fileName))).thenReturn(ObjectMetadata())
 
     val s3Facade = S3Facade(amazonS3, bucketName)
 
@@ -54,7 +53,6 @@ class S3FacadeTest {
     val bucketName = "some-bucket-name"
     val fileName = "1a.json"
 
-    whenever(amazonS3.getObjectMetadata(eq(bucketName), eq(fileName))).thenReturn(ObjectMetadata())
     whenever(amazonS3.getObjectAsString(eq(bucketName), eq(fileName))).thenThrow(AmazonS3Exception::class.java)
 
     val s3Facade = S3Facade(amazonS3, bucketName)

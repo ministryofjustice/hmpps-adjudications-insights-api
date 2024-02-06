@@ -15,8 +15,6 @@ class S3Facade(
 
   fun getFile(fileName: String): String {
     log.info("getting $bucketName $fileName")
-    log.info("file size: ${getS3ObjectMetadata(fileName).contentLength}")
-
     return amazonS3.getObjectAsString(bucketName, fileName)
   }
 
