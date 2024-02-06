@@ -1,10 +1,6 @@
 server:
   shutdown: immediate
 
-spring:
-  cache:
-    type: NONE
-
 management.endpoint:
   health.cache.time-to-live: 0
   info.cache.time-to-live: 0
