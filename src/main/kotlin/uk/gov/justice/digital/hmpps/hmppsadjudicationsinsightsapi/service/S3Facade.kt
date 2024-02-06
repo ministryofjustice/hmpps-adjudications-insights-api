@@ -16,7 +16,7 @@ class S3Facade(
   @Value("\${data-insights.bucket.name}") private val bucketName: String,
 ) {
 
-  // @Cacheable("insights")
+  @Cacheable("insights")
   fun getFile(fileName: String): String {
     log.info("getting $bucketName $fileName")
     return amazonS3.getObjectAsString(bucketName, fileName)
