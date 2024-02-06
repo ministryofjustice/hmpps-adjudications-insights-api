@@ -27,6 +27,7 @@ class ChartService(private val s3Facade: S3Facade) {
   @Cacheable("chart-meta", key = "#chart.name")
   fun getS3ObjectMetaData(chart: Chart): ChartMetadataDto {
     val s3Metadata = this.s3Facade.getS3ObjectMetadata(chart.fileName)
+    log.info("file size ${s3Metadata.contentLength}")
     return ChartMetadataDto(
       chartName = chart.fileName,
       lastModifiedDate = s3Metadata.lastModified.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime(),
