@@ -17,13 +17,13 @@ class HmppsAdjudicationsInsightsApi {
     val log: Logger = LoggerFactory.getLogger(this::class.java)
   }
 
-  fun main(args: Array<String>) {
-    runApplication<HmppsAdjudicationsInsightsApi>(*args)
-  }
-
   @Scheduled(cron = "@hourly")
   @CacheEvict(cacheNames = ["chart-meta", "charts"], allEntries = true)
   fun evictCaches() {
     log.info("evicting all caches")
   }
+}
+
+fun main(args: Array<String>) {
+  runApplication<HmppsAdjudicationsInsightsApi>(*args)
 }
