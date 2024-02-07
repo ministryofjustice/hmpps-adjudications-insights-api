@@ -2,8 +2,6 @@ package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.service
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import org.slf4j.Logger
-import org.slf4j.LoggerFactory
 import org.springframework.cache.annotation.Cacheable
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
@@ -29,9 +27,5 @@ class ChartService(private val s3Facade: S3Facade) {
       chartName = chart.fileName,
       lastModifiedDate = s3Metadata.lastModified.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime(),
     )
-  }
-
-  companion object {
-    val log: Logger = LoggerFactory.getLogger(this::class.java)
   }
 }
