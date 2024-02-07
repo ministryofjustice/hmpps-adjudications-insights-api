@@ -4,9 +4,7 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
-import org.springframework.cache.annotation.CacheEvict
 import org.springframework.cache.annotation.Cacheable
-import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Service
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.Chart
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.dtos.ChartMetadataDto
@@ -31,16 +29,6 @@ class ChartService(private val s3Facade: S3Facade) {
       chartName = chart.fileName,
       lastModifiedDate = s3Metadata.lastModified.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime(),
     )
-  }
-
-  @Scheduled(cron = "@hourly")
-  fun evictCaches() {
-    evict()
-  }
-
-  @CacheEvict(value = ["chart-meta", "charts"], allEntries = true)
-  private fun evict() {
-    log.info("evicting all caches")
   }
 
   companion object {
