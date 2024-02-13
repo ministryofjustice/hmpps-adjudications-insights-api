@@ -22,13 +22,13 @@ dependencies {
   implementation("io.swagger:swagger-annotations:1.6.13")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0")
   implementation("com.google.code.gson:gson:2.10.1")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.645")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.645")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.656")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.656")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
-  testImplementation("io.jsonwebtoken:jjwt-impl:0.12.3")
-  testImplementation("io.jsonwebtoken:jjwt-jackson:0.12.3")
+  testImplementation("io.jsonwebtoken:jjwt-impl:0.12.5")
+  testImplementation("io.jsonwebtoken:jjwt-jackson:0.12.5")
 }
 
 java {
