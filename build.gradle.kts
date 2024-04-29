@@ -22,8 +22,8 @@ dependencies {
   implementation("io.swagger:swagger-annotations:1.6.14")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0")
   implementation("com.google.code.gson:gson:2.10.1")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.705")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.705")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.710")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.710")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
