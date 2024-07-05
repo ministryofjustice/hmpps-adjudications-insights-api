@@ -89,7 +89,7 @@ workflows:
           jira_env_type: staging
           context:
             - hmpps-common-vars
-            - hmpps-adjudications-insights-api-preprod
+           # - hmpps-adjudications-insights-api-preprod
           requires:
             - request-preprod-approval
           helm_timeout: 5m
@@ -106,7 +106,7 @@ workflows:
           slack_channel_name: << pipeline.parameters.releases-slack-channel >>
           context:
             - hmpps-common-vars
-            - hmpps-adjudications-insights-api-prod
+          #  - hmpps-adjudications-insights-api-prod
           requires:
             - request-prod-approval
           helm_timeout: 5m
