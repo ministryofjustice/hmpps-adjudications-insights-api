@@ -20,10 +20,10 @@ dependencies {
   implementation("org.springframework.boot:spring-boot-starter-cache")
 
   implementation("io.swagger:swagger-annotations:1.6.14")
-  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0")
+  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")
   implementation("com.google.code.gson:gson:2.11.0")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.753")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.753")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.762")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.762")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
