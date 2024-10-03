@@ -1,6 +1,6 @@
 plugins {
   id("uk.gov.justice.hmpps.gradle-spring-boot") version "6.0.6"
-  kotlin("plugin.spring") version "1.9.22"
+  kotlin("plugin.spring") version "1.9.25"
 }
 
 configurations {
@@ -22,8 +22,8 @@ dependencies {
   implementation("io.swagger:swagger-annotations:1.6.14")
   implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")
   implementation("com.google.code.gson:gson:2.11.0")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.769")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.769")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.773")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.773")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
