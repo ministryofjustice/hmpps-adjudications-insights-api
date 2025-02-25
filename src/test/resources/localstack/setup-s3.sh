@@ -26,24 +26,10 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 #    --key chart/4b.json \
 #    --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
-# Upload all files using put-object
-find "${LOCALSTACK_TMP_FOLDER}" -type f | while read -r file_path; do
-  s3_key="${file_path#${LOCALSTACK_TMP_FOLDER}/}"
-
-  aws --endpoint-url=http://localhost:4566 s3api put-object \
-    --bucket mojap-adjudications-insights \
-    --key "$s3_key" \
-    --body "$file_path"
-done
-
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
-#aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
+aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
 echo "Verification:"
 aws --endpoint-url=http://localhost:4566 s3 ls s3://mojap-adjudications-insights/ --recursive
-
-#echo "Checking file existence:"
-#ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
-#md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
 echo "S3 Configured"
