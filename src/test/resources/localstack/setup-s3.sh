@@ -19,6 +19,6 @@ echo "LOCALSTACK_TMP_FOLDER=${LOCALSTACK_TMP_FOLDER}"
 aws --version
 aws configure set default.s3.disable_multipart true
 
-aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
-aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --multipart-chunk-size-mb 1000
+aws --endpoint-url=http://s3.localhost.localstack.cloud:4566 s3 mb s3://mojap-adjudications-insights
+aws --endpoint-url=http://s3.localhost.localstack.cloud:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --multipart-chunk-size-mb 1000
 echo "S3 Configured"
