@@ -21,17 +21,23 @@ aws configure set default.s3.signature_version s3v4
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 
-# Attempt upload 3 times with delay
-#for i in {1..3}; do
+#aws --endpoint-url=http://localhost:4566 s3api put-object \
+#    --bucket mojap-adjudications-insights \
+#    --key chart/4b.json \
+#    --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+
+find "${LOCALSTACK_TMP_FOLDER}" -type f -name '*.json' | while read -r file; do
+  # Remove the source directory prefix to get a relative path for the S3 key.
+  relative_key="${file#${LOCALSTACK_TMP_FOLDER}/}"
+  echo "Uploading ${file} as ${relative_key}"
   aws --endpoint-url=http://localhost:4566 s3api put-object \
       --bucket mojap-adjudications-insights \
-      --key chart/4b.json \
-      --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
-#      && break || sleep 2
-#done
+      --key "${relative_key}" \
+      --body "${file}"
+done
 
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
-aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --exclude "*4b.json" --recursive
+#aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
 echo "Checking file existence:"
 ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
