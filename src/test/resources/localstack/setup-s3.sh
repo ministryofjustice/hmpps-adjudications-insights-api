@@ -27,10 +27,26 @@ aws --endpoint-url=http://localhost:4566 s3api put-object \
     --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
-aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
+#aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
-echo "Checking file existence:"
-ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
-md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+# Upload all JSON files individually, skipping chart/4b.json
+find "${LOCALSTACK_TMP_FOLDER}" -type f -name '*.json' | while read -r file; do
+    # Compute a key relative to LOCALSTACK_TMP_FOLDER.
+    key="${file#${LOCALSTACK_TMP_FOLDER}/}"
+    # Skip chart/4b.json if desired (or upload it separately)
+    if [[ "$key" == "chart/4b.json" ]]; then
+        echo "Skipping $key (to avoid multipart upload issues)"
+        continue
+    fi
+    echo "Uploading ${file} as ${key}"
+    aws --endpoint-url=http://localhost:4566 s3api put-object \
+        --bucket mojap-adjudications-insights \
+        --key "${key}" \
+        --body "${file}"
+done
+
+#echo "Checking file existence:"
+#ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+#md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
 echo "S3 Configured"
