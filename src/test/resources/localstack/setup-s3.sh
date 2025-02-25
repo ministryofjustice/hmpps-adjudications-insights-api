@@ -23,7 +23,7 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 
 aws --endpoint-url=http://localhost:4566 s3api put-object \
     --bucket mojap-adjudications-insights \
-    --key chart/4b.json \
+    --key reserve/4b.json \
     --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
