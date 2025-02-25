@@ -6,6 +6,7 @@ export AWS_DEFAULT_REGION=eu-west-1
 export AWS_ACCESS_KEY_ID=foobar
 export AWS_SECRET_ACCESS_KEY=foobar
 
+export PROVIDER_OVERRIDE_S3=v3
 export AWS_S3_DISABLE_CHUNKED_ENCODING=true
 
 export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/tmp/localstack/test-data/}"
