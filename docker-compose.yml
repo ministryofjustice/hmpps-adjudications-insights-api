@@ -19,7 +19,6 @@ services:
       - AWS_ACCESS_KEY_ID=foobar
       - S3_SKIP_CHECKSUM_VALIDATION=true
       - PROVIDER_OVERRIDE_S3=legacy
-#      - LOCALSTACK_TMP_FOLDER=/tmp/localstack/test-data
     volumes:
       - "./src/test/resources/test-data:/tmp/localstack/test-data"
       - "$PWD/src/test/resources/localstack/setup-s3.sh:/etc/localstack/init/ready.d/init-aws.sh"
