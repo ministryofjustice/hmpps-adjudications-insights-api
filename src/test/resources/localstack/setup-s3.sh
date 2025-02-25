@@ -16,6 +16,7 @@ echo "S3 Configuration started"
 
 echo "LOCALSTACK_TMP_FOLDER=${LOCALSTACK_TMP_FOLDER}"
 
+aws --version
 aws configure set default.s3.disable_multipart true
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
