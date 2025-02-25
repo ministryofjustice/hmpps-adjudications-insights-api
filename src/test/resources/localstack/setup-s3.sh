@@ -17,7 +17,7 @@ echo "S3 Configuration started"
 echo "LOCALSTACK_TMP_FOLDER=${LOCALSTACK_TMP_FOLDER}"
 
 aws configure set default.s3.disable_multipart true
-#aws configure set default.s3.signature_version s3v4
+aws configure set default.s3.signature_version s3v4
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 
@@ -26,10 +26,10 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 #    --key reserve/4b.json \
 #    --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
-aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
+aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 #aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
-echo "Verification:"
-aws --endpoint-url=http://localhost:4566 s3 ls s3://mojap-adjudications-insights/ --recursive
+#echo "Verification:"
+#aws --endpoint-url=http://localhost:4566 s3 ls s3://mojap-adjudications-insights/ --recursive
 
 echo "S3 Configured"
