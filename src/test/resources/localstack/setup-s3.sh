@@ -30,8 +30,8 @@ for i in {1..3}; do
       --body "${LOCALSTACK_TMP_FOLDER}/chart/4b.json" && break || sleep 2
 done
 
-#echo "Checking file existence:"
-#ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
-#md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+echo "Checking file existence:"
+ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
 
 echo "S3 Configured"
