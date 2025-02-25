@@ -31,7 +31,7 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 #done
 
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
-aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --dryrun
+aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --exclude "*4b.json" --recursive
 
 echo "Checking file existence:"
 ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
