@@ -6,7 +6,7 @@ export AWS_DEFAULT_REGION=eu-west-1
 export AWS_ACCESS_KEY_ID=foobar
 export AWS_SECRET_ACCESS_KEY=foobar
 
-#export PROVIDER_OVERRIDE_S3=stream
+export PROVIDER_OVERRIDE_S3=legacy
 #export AWS_S3_DISABLE_CHUNKED_ENCODING=true
 #export S3_SKIP_CHECKSUM_VALIDATION=true
 
@@ -21,4 +21,16 @@ aws configure set default.s3.payload_signing_enabled false
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --no-verify-ssl --no-progress --content-md5 "skip"
+
+# Attempt upload 3 times with delay
+for i in {1..3}; do
+  aws --endpoint-url=http://localhost:4566 s3 cp \
+    "${LOCALSTACK_TMP_FOLDER}/chart/4b.json" \
+    s3://mojap-adjudications-insights/chart/4b.json && break || sleep 2
+done
+
+echo "Checking file existence:"
+ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+md5sum "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
+
 echo "S3 Configured"
