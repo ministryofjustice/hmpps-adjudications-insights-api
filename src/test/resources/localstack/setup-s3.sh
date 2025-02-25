@@ -20,7 +20,7 @@ aws configure set default.s3.disable_multipart true
 #aws configure set default.s3.signature_version s3v4
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
-aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --exclude "chart/4b.json" --no-progress
+aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
 # Attempt upload 3 times with delay
 for i in {1..3}; do
