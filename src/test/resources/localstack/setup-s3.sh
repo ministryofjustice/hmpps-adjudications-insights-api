@@ -6,8 +6,8 @@ export AWS_DEFAULT_REGION=eu-west-1
 export AWS_ACCESS_KEY_ID=foobar
 export AWS_SECRET_ACCESS_KEY=foobar
 
-export PROVIDER_OVERRIDE_S3=v3
-export AWS_S3_DISABLE_CHUNKED_ENCODING=true
+#export PROVIDER_OVERRIDE_S3=v3
+#export AWS_S3_DISABLE_CHUNKED_ENCODING=true
 
 export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/tmp/localstack/test-data/}"
 
@@ -15,7 +15,7 @@ echo "S3 Configuration started"
 
 echo "LOCALSTACK_TMP_FOLDER=${LOCALSTACK_TMP_FOLDER}"
 
-aws configure set default.s3.disable_multipart true
+#aws configure set default.s3.disable_multipart true
 
 aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive

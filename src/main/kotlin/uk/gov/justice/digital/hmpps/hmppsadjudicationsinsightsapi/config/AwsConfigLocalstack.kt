@@ -17,8 +17,8 @@ class AwsConfigLocalstack {
       .withEndpointConfiguration(
         AwsClientBuilder.EndpointConfiguration("http://s3.localhost.localstack.cloud:4566", "eu-west-1"),
       )
-      .withPathStyleAccessEnabled(true)
-      .disableChunkedEncoding()
+//      .withPathStyleAccessEnabled(true)
+//      .disableChunkedEncoding()
       .build()
   }
 }
