@@ -6,9 +6,9 @@ export AWS_DEFAULT_REGION=eu-west-1
 export AWS_ACCESS_KEY_ID=foobar
 export AWS_SECRET_ACCESS_KEY=foobar
 
-export PROVIDER_OVERRIDE_S3=stream
+#export PROVIDER_OVERRIDE_S3=stream
 #export AWS_S3_DISABLE_CHUNKED_ENCODING=true
-export S3_SKIP_CHECKSUM_VALIDATION=true
+#export S3_SKIP_CHECKSUM_VALIDATION=true
 
 export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/tmp/localstack/test-data/}"
 
