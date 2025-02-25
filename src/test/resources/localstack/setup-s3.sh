@@ -31,7 +31,7 @@ done
 
 #aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive --exclude "chart/4b.json"
 # Upload remaining files using sync instead of copy
-aws --endpoint-url=http://localhost:4566 s3 sync "${LOCALSTACK_TMP_FOLDER}" s3://mojap-adjudications-insights --no-progress --exact-timestamps
+aws --endpoint-url=http://localhost:4566 s3 sync "${LOCALSTACK_TMP_FOLDER}" s3://mojap-adjudications-insights --exact-timestamps
 
 echo "Checking file existence:"
 ls -la "${LOCALSTACK_TMP_FOLDER}/chart/4b.json"
