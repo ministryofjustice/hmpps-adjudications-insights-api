@@ -1,0 +1,2127 @@
+{
+  "ACI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 97,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 1,
+      "proportion": 0.01
+    }
+  ],
+  "AGI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 68,
+      "proportion": 0.51
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 45,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 20,
+      "proportion": 0.15
+    }
+  ],
+  "ASI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 85,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 68,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 47,
+      "proportion": 0.24
+    }
+  ],
+  "AYI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 86,
+      "proportion": 0.69
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 24,
+      "proportion": 0.19
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 14,
+      "proportion": 0.11
+    }
+  ],
+  "BAI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.61
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 60,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 1,
+      "proportion": 0.01
+    }
+  ],
+  "BCI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 79,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 62,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.22
+    }
+  ],
+  "BFI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 39,
+      "proportion": 0.39
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 35,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 27,
+      "proportion": 0.27
+    }
+  ],
+  "BLI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 67,
+      "proportion": 0.75
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 15,
+      "proportion": 0.17
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 7,
+      "proportion": 0.08
+    }
+  ],
+  "BMI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 65,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 58,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 46,
+      "proportion": 0.27
+    }
+  ],
+  "BNI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 85,
+      "proportion": 0.69
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 31,
+      "proportion": 0.25
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 7,
+      "proportion": 0.06
+    }
+  ],
+  "BRI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 97,
+      "proportion": 0.66
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 32,
+      "proportion": 0.22
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 19,
+      "proportion": 0.13
+    }
+  ],
+  "BSI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 77,
+      "proportion": 0.67
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "BWI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 83,
+      "proportion": 0.61
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 43,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 11,
+      "proportion": 0.08
+    }
+  ],
+  "BXI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 62,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 45,
+      "proportion": 0.24
+    }
+  ],
+  "BZI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 97,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 64,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 48,
+      "proportion": 0.23
+    }
+  ],
+  "CDI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 85,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 42,
+      "proportion": 0.19
+    }
+  ],
+  "CFI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 32,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 31,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 25,
+      "proportion": 0.28
+    }
+  ],
+  "CKI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.53
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 68,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 3,
+      "proportion": 0.02
+    }
+  ],
+  "CLI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 98,
+      "proportion": 0.47
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 62,
+      "proportion": 0.3
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 49,
+      "proportion": 0.23
+    }
+  ],
+  "CWI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 94,
+      "proportion": 0.47
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 87,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 19,
+      "proportion": 0.1
+    }
+  ],
+  "DAI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 70,
+      "proportion": 0.74
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 16,
+      "proportion": 0.17
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 9,
+      "proportion": 0.09
+    }
+  ],
+  "DGI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 90,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 72,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.19
+    }
+  ],
+  "DHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 87,
+      "proportion": 0.54
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 60,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 14,
+      "proportion": 0.09
+    }
+  ],
+  "DMI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 82,
+      "proportion": 0.65
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 29,
+      "proportion": 0.23
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 16,
+      "proportion": 0.13
+    }
+  ],
+  "DNI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 94,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 14,
+      "proportion": 0.07
+    }
+  ],
+  "DTI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.79
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 13,
+      "proportion": 0.13
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 8,
+      "proportion": 0.08
+    }
+  ],
+  "DWI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 98,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 97,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 17,
+      "proportion": 0.08
+    }
+  ],
+  "EEI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 45,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 20,
+      "proportion": 0.13
+    }
+  ],
+  "EHI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 64,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 55,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 32,
+      "proportion": 0.21
+    }
+  ],
+  "ESI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 97,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 17,
+      "proportion": 0.09
+    }
+  ],
+  "EWI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 89,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 58,
+      "proportion": 0.27
+    }
+  ],
+  "EXI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 67,
+      "proportion": 0.49
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 52,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 17,
+      "proportion": 0.12
+    }
+  ],
+  "EYI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 54,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 47,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 22,
+      "proportion": 0.18
+    }
+  ],
+  "FBI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 97,
+      "proportion": 0.55
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 40,
+      "proportion": 0.23
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 40,
+      "proportion": 0.23
+    }
+  ],
+  "FDI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 59,
+      "proportion": 0.62
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 36,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "FEI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 97,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 91,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 90,
+      "proportion": 0.32
+    }
+  ],
+  "FHI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 97,
+      "proportion": 0.68
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 35,
+      "proportion": 0.25
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 10,
+      "proportion": 0.07
+    }
+  ],
+  "FKI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 54,
+      "proportion": 0.54
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 30,
+      "proportion": 0.3
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 16,
+      "proportion": 0.16
+    }
+  ],
+  "FMI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 38,
+      "proportion": 0.72
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "FNI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 84,
+      "proportion": 0.51
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 48,
+      "proportion": 0.29
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 32,
+      "proportion": 0.2
+    }
+  ],
+  "FSI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 88,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 85,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 65,
+      "proportion": 0.27
+    }
+  ],
+  "FWI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 76,
+      "proportion": 0.56
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 59,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "FYI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 93,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 88,
+      "proportion": 0.4
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.18
+    }
+  ],
+  "GHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 71,
+      "proportion": 0.69
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 26,
+      "proportion": 0.25
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 6,
+      "proportion": 0.06
+    }
+  ],
+  "GMI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 70,
+      "proportion": 0.85
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 6,
+      "proportion": 0.07
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 6,
+      "proportion": 0.07
+    }
+  ],
+  "GNI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 54,
+      "proportion": 0.75
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 12,
+      "proportion": 0.17
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 6,
+      "proportion": 0.08
+    }
+  ],
+  "GTI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 53,
+      "proportion": 0.4
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 41,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 40,
+      "proportion": 0.3
+    }
+  ],
+  "HBI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 66,
+      "proportion": 0.47
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 64,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 11,
+      "proportion": 0.08
+    }
+  ],
+  "HCI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 88,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 62,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "HDI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 51,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 42,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 29,
+      "proportion": 0.24
+    }
+  ],
+  "HEI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 43,
+      "proportion": 0.51
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 38,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 3,
+      "proportion": 0.04
+    }
+  ],
+  "HHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 80,
+      "proportion": 0.71
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 17,
+      "proportion": 0.15
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 16,
+      "proportion": 0.14
+    }
+  ],
+  "HII": [
+    {
+      "wing_loc": "Wing C",
+      "count": 51,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 48,
+      "proportion": 0.48
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 2,
+      "proportion": 0.02
+    }
+  ],
+  "HLI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 71,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 39,
+      "proportion": 0.21
+    }
+  ],
+  "HMI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 67,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 37,
+      "proportion": 0.2
+    }
+  ],
+  "HOI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 90,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 78,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 37,
+      "proportion": 0.18
+    }
+  ],
+  "HPI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 47,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 42,
+      "proportion": 0.39
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 19,
+      "proportion": 0.18
+    }
+  ],
+  "HVI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 93,
+      "proportion": 0.71
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 30,
+      "proportion": 0.23
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 8,
+      "proportion": 0.06
+    }
+  ],
+  "ISI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 60,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 58,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 15,
+      "proportion": 0.11
+    }
+  ],
+  "IWI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 89,
+      "proportion": 0.51
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 87,
+      "proportion": 0.49
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "KMI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 67,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 45,
+      "proportion": 0.29
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 42,
+      "proportion": 0.27
+    }
+  ],
+  "KVI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 82,
+      "proportion": 0.55
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 41,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 25,
+      "proportion": 0.17
+    }
+  ],
+  "LCI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 94,
+      "proportion": 0.58
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 56,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 12,
+      "proportion": 0.07
+    }
+  ],
+  "LEI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 57,
+      "proportion": 0.61
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 23,
+      "proportion": 0.24
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 14,
+      "proportion": 0.15
+    }
+  ],
+  "LFI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 42,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 30,
+      "proportion": 0.32
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 23,
+      "proportion": 0.24
+    }
+  ],
+  "LGI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 75,
+      "proportion": 0.65
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 25,
+      "proportion": 0.22
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 16,
+      "proportion": 0.14
+    }
+  ],
+  "LHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 99,
+      "proportion": 0.47
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 73,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.18
+    }
+  ],
+  "LII": [
+    {
+      "wing_loc": "Wing C",
+      "count": 70,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 54,
+      "proportion": 0.32
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 46,
+      "proportion": 0.27
+    }
+  ],
+  "LLI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 81,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 31,
+      "proportion": 0.16
+    }
+  ],
+  "LNI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 87,
+      "proportion": 0.62
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 44,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 10,
+      "proportion": 0.07
+    }
+  ],
+  "LPI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.48
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 44,
+      "proportion": 0.32
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 27,
+      "proportion": 0.2
+    }
+  ],
+  "LTI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 81,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 77,
+      "proportion": 0.4
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 34,
+      "proportion": 0.18
+    }
+  ],
+  "LWI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 84,
+      "proportion": 0.69
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 19,
+      "proportion": 0.16
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 18,
+      "proportion": 0.15
+    }
+  ],
+  "LYI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 80,
+      "proportion": 0.48
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 46,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 39,
+      "proportion": 0.24
+    }
+  ],
+  "MDI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 76,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 36,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 16,
+      "proportion": 0.12
+    }
+  ],
+  "MHI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 51,
+      "proportion": 0.61
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 22,
+      "proportion": 0.26
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 11,
+      "proportion": 0.13
+    }
+  ],
+  "MRI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 90,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 81,
+      "proportion": 0.4
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 30,
+      "proportion": 0.15
+    }
+  ],
+  "MSI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 88,
+      "proportion": 0.55
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 57,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.09
+    }
+  ],
+  "MTI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 70,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 66,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 21,
+      "proportion": 0.13
+    }
+  ],
+  "NHI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 84,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 42,
+      "proportion": 0.3
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 16,
+      "proportion": 0.11
+    }
+  ],
+  "NLI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 44,
+      "proportion": 0.57
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 28,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 5,
+      "proportion": 0.06
+    }
+  ],
+  "NMI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 68,
+      "proportion": 0.54
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 45,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 14,
+      "proportion": 0.11
+    }
+  ],
+  "NSI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 98,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 94,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.25
+    }
+  ],
+  "NWI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 88,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 6,
+      "proportion": 0.03
+    }
+  ],
+  "ONI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 38,
+      "proportion": 0.58
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 27,
+      "proportion": 0.42
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "OWI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 66,
+      "proportion": 0.64
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 37,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "PBI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 95,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 53,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 12,
+      "proportion": 0.08
+    }
+  ],
+  "PDI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 78,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 61,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 33,
+      "proportion": 0.19
+    }
+  ],
+  "PFI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 24,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 17,
+      "proportion": 0.3
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 15,
+      "proportion": 0.27
+    }
+  ],
+  "PNI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 93,
+      "proportion": 0.5
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 57,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 35,
+      "proportion": 0.19
+    }
+  ],
+  "PRI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 74,
+      "proportion": 0.78
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.16
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 6,
+      "proportion": 0.06
+    }
+  ],
+  "PVI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 65,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 64,
+      "proportion": 0.37
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 46,
+      "proportion": 0.26
+    }
+  ],
+  "PYI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 63,
+      "proportion": 0.39
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 51,
+      "proportion": 0.32
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 47,
+      "proportion": 0.29
+    }
+  ],
+  "RCI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 78,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 29,
+      "proportion": 0.17
+    }
+  ],
+  "RHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 64,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 61,
+      "proportion": 0.39
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 33,
+      "proportion": 0.21
+    }
+  ],
+  "RNI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 84,
+      "proportion": 0.55
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 47,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 23,
+      "proportion": 0.15
+    }
+  ],
+  "RSI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 92,
+      "proportion": 0.59
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 65,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 0,
+      "proportion": 0.0
+    }
+  ],
+  "SDI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 88,
+      "proportion": 0.49
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 84,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 9,
+      "proportion": 0.05
+    }
+  ],
+  "SFI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 85,
+      "proportion": 0.63
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 45,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 4,
+      "proportion": 0.03
+    }
+  ],
+  "SHI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 88,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 58,
+      "proportion": 0.28
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 58,
+      "proportion": 0.28
+    }
+  ],
+  "SKI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 55,
+      "proportion": 0.6
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 21,
+      "proportion": 0.23
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 15,
+      "proportion": 0.16
+    }
+  ],
+  "SLI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 58,
+      "proportion": 0.89
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 6,
+      "proportion": 0.09
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 1,
+      "proportion": 0.02
+    }
+  ],
+  "SNI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 86,
+      "proportion": 0.83
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 13,
+      "proportion": 0.12
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 5,
+      "proportion": 0.05
+    }
+  ],
+  "SPI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 99,
+      "proportion": 0.62
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 43,
+      "proportion": 0.27
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 17,
+      "proportion": 0.11
+    }
+  ],
+  "STI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 73,
+      "proportion": 0.43
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 59,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 38,
+      "proportion": 0.22
+    }
+  ],
+  "SUI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 94,
+      "proportion": 0.45
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 70,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 47,
+      "proportion": 0.22
+    }
+  ],
+  "SWI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 81,
+      "proportion": 0.73
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 22,
+      "proportion": 0.2
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 8,
+      "proportion": 0.07
+    }
+  ],
+  "TCI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 99,
+      "proportion": 0.56
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 52,
+      "proportion": 0.29
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 27,
+      "proportion": 0.15
+    }
+  ],
+  "TSI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 55,
+      "proportion": 0.6
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 26,
+      "proportion": 0.29
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 10,
+      "proportion": 0.11
+    }
+  ],
+  "UKI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 48,
+      "proportion": 0.48
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 46,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 6,
+      "proportion": 0.06
+    }
+  ],
+  "UPI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 53,
+      "proportion": 0.4
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 45,
+      "proportion": 0.34
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 34,
+      "proportion": 0.26
+    }
+  ],
+  "VEI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 69,
+      "proportion": 0.47
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 49,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 29,
+      "proportion": 0.2
+    }
+  ],
+  "WCI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 92,
+      "proportion": 0.61
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 55,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 4,
+      "proportion": 0.03
+    }
+  ],
+  "WDI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 98,
+      "proportion": 0.36
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 86,
+      "proportion": 0.32
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 85,
+      "proportion": 0.32
+    }
+  ],
+  "WEI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 40,
+      "proportion": 0.71
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 14,
+      "proportion": 0.25
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 2,
+      "proportion": 0.04
+    }
+  ],
+  "WHI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 36,
+      "proportion": 0.73
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 12,
+      "proportion": 0.24
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 1,
+      "proportion": 0.02
+    }
+  ],
+  "WII": [
+    {
+      "wing_loc": "Wing A",
+      "count": 70,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 52,
+      "proportion": 0.3
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 50,
+      "proportion": 0.29
+    }
+  ],
+  "WLI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 95,
+      "proportion": 0.67
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 24,
+      "proportion": 0.17
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 23,
+      "proportion": 0.16
+    }
+  ],
+  "WMI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 74,
+      "proportion": 0.65
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 20,
+      "proportion": 0.18
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 19,
+      "proportion": 0.17
+    }
+  ],
+  "WNI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 76,
+      "proportion": 0.49
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 59,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 19,
+      "proportion": 0.12
+    }
+  ],
+  "WRI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 81,
+      "proportion": 0.38
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 67,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 65,
+      "proportion": 0.31
+    }
+  ],
+  "WSI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 42,
+      "proportion": 0.44
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 39,
+      "proportion": 0.41
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 15,
+      "proportion": 0.16
+    }
+  ],
+  "WTI": [
+    {
+      "wing_loc": "Wing A",
+      "count": 66,
+      "proportion": 0.46
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 45,
+      "proportion": 0.31
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 33,
+      "proportion": 0.23
+    }
+  ],
+  "WWI": [
+    {
+      "wing_loc": "Wing B",
+      "count": 62,
+      "proportion": 0.62
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 27,
+      "proportion": 0.27
+    },
+    {
+      "wing_loc": "Wing C",
+      "count": 11,
+      "proportion": 0.11
+    }
+  ],
+  "WYI": [
+    {
+      "wing_loc": "Wing C",
+      "count": 96,
+      "proportion": 0.35
+    },
+    {
+      "wing_loc": "Wing A",
+      "count": 89,
+      "proportion": 0.33
+    },
+    {
+      "wing_loc": "Wing B",
+      "count": 88,
+      "proportion": 0.32
+    }
+  ]
+}
