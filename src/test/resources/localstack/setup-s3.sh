@@ -29,6 +29,7 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://mojap-adjudications-insights
 #aws --debug --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 aws --endpoint-url=http://localhost:4566 s3 cp ${LOCALSTACK_TMP_FOLDER} s3://mojap-adjudications-insights --recursive
 
+
 #echo "Verification:"
 #aws --endpoint-url=http://localhost:4566 s3 ls s3://mojap-adjudications-insights/ --recursive
 
