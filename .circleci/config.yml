@@ -21,7 +21,7 @@ jobs:
     name: hmpps/localstack
     jdk_tag: "21.0"
     services: s3
-    localstack_tag: "3.0"
+    localstack_tag: "latest"
    steps:
     - checkout
     - aws-cli/install

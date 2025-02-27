@@ -18,9 +18,8 @@ class S3Facade(
     return amazonS3.getObjectAsString(bucketName, fileName)
   }
 
-  fun getS3ObjectMetadata(fileName: String): ObjectMetadata {
-    return amazonS3.getObjectMetadata(bucketName, fileName)
-  }
+  fun getS3ObjectMetadata(fileName: String): ObjectMetadata = amazonS3.getObjectMetadata(bucketName, fileName)
+
   companion object {
     val log: Logger = LoggerFactory.getLogger(this::class.java)
   }

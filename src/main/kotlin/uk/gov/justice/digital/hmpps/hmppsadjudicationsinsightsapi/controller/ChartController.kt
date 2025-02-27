@@ -34,9 +34,5 @@ class ChartController(private val chartService: ChartService) {
   @GetMapping("/last-updated/{chartName}")
   fun lastUpdated(
     @PathVariable(name = "chartName") chartName: String,
-  ): ChartMetadataDto {
-    return chartService.getS3ObjectMetaData(
-      chart = Chart.getChart(chartName),
-    )
-  }
+  ): ChartMetadataDto = chartService.getS3ObjectMetaData(chart = Chart.getChart(chartName))
 }
