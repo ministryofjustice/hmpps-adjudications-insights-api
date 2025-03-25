@@ -67,3 +67,5 @@ data-insights:
   bucket:
     name: ${DATA-INSIGHTS_BUCKET_NAME:mojap-adjudications-insights}
     region: ${S3_REGION:eu-west-2}
+
+springdoc.swagger-ui.version: 5.20.0
