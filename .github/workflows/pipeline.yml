@@ -36,7 +36,7 @@ jobs:
     uses: ministryofjustice/hmpps-github-actions/.github/workflows/gradle_localstack_verify.yml@v2 # WORKFLOW_VERSION
     secrets: inherit
     with:
-      services: s3
+      localstack-services: s3
       localstack-tag: latest
   build:
     name: Build docker image from hmpps-github-actions
