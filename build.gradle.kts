@@ -1,6 +1,6 @@
 plugins {
-  id("uk.gov.justice.hmpps.gradle-spring-boot") version "8.1.0"
-  kotlin("plugin.spring") version "2.1.20"
+  id("uk.gov.justice.hmpps.gradle-spring-boot") version "8.3.0"
+  kotlin("plugin.spring") version "2.2.0"
 }
 
 configurations {
@@ -19,11 +19,11 @@ dependencies {
   implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
   implementation("org.springframework.boot:spring-boot-starter-cache")
 
-  implementation("io.swagger:swagger-annotations:1.6.14")
-  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.5")
-  implementation("com.google.code.gson:gson:2.11.0")
-  implementation("com.amazonaws:aws-java-sdk-s3:1.12.777")
-  implementation("com.amazonaws:aws-java-sdk-sts:1.12.777")
+  implementation("io.swagger:swagger-annotations:1.6.16")
+  implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.9")
+  implementation("com.google.code.gson:gson:2.13.1")
+  implementation("com.amazonaws:aws-java-sdk-s3:1.12.787")
+  implementation("com.amazonaws:aws-java-sdk-sts:1.12.787")
 
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
@@ -37,8 +37,6 @@ java {
 
 tasks {
   withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
-    kotlinOptions {
-      jvmTarget = "21"
-    }
+    compilerOptions.jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21
   }
 }
