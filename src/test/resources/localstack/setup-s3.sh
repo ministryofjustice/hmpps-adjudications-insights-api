@@ -9,7 +9,8 @@ export AWS_SECRET_ACCESS_KEY=foobar
 export PROVIDER_OVERRIDE_S3=stream
 export S3_SKIP_CHECKSUM_VALIDATION=true
 
-export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/tmp/localstack/test-data/}"
+# export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/tmp/localstack/test-data/}"
+export LOCALSTACK_TMP_FOLDER="${LOCALSTACK_TMP_FOLDER:=/data/test-data/}"
 
 echo "S3 Configuration started"
 
