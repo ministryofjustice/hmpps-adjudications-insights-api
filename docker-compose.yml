@@ -20,7 +20,8 @@ services:
       - S3_SKIP_CHECKSUM_VALIDATION=true
       - PROVIDER_OVERRIDE_S3=stream
     volumes:
-      - "./src/test/resources/test-data:/tmp/localstack/test-data"
+#      - "./src/test/resources/test-data:/tmp/localstack/test-data"
+      - "./src/test/resources/test-data:/data/test-data"
       - "$PWD/src/test/resources/localstack/setup-s3.sh:/etc/localstack/init/ready.d/init-aws.sh"
       - "/var/run/docker.sock:/var/run/docker.sock"
 
