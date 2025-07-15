@@ -13,7 +13,7 @@ import java.time.ZoneId
 
 @Service
 class ChartService(private val s3Facade: S3Facade) {
-  
+
   companion object {
     val log: Logger = LoggerFactory.getLogger(ChartService::class.java)
   }
@@ -42,7 +42,7 @@ class ChartService(private val s3Facade: S3Facade) {
       val s3Metadata = this.s3Facade.getS3ObjectMetadata(chart.fileName)
       return ChartMetadataDto(
         chartName = chart.fileName,
-        lastModifiedDate = s3Metadata.lastModified?.toInstant()?.atZone(ZoneId.systemDefault())?.toLocalDateTime() 
+        lastModifiedDate = s3Metadata.lastModified?.toInstant()?.atZone(ZoneId.systemDefault())?.toLocalDateTime()
           ?: java.time.LocalDateTime.now(), // Fallback to current time if lastModified is null
       )
     } catch (e: Exception) {
