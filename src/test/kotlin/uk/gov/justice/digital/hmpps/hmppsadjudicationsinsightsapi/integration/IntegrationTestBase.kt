@@ -11,7 +11,7 @@ import org.springframework.test.web.reactive.server.WebTestClient
 import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.utils.JwtAuthHelper
 
 @SpringBootTest(webEnvironment = RANDOM_PORT)
-@AutoConfigureWebTestClient(timeout = "36000")
+@AutoConfigureWebTestClient
 @ActiveProfiles("test")
 abstract class IntegrationTestBase {
 
