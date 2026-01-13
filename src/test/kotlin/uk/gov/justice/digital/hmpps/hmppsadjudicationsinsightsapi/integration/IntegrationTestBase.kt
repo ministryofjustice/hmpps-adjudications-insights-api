@@ -1,9 +1,9 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.integration
 
 import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.boot.webtestclient.autoconfigure.AutoConfigureWebTestClient
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT
+import org.springframework.boot.webtestclient.autoconfigure.AutoConfigureWebTestClient
 import org.springframework.http.HttpHeaders
 import org.springframework.http.MediaType
 import org.springframework.test.context.ActiveProfiles
