@@ -29,7 +29,8 @@ dependencies {
   implementation("com.amazonaws:aws-java-sdk-sts:1.12.787")
 
   testImplementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter-test:2.0.0")
-  testImplementation("org.springframework.boot:spring-boot-starter-webflux-test")
+  testImplementation("org.springframework.boot:spring-boot-webflux-test:4.0.0")
+  testImplementation("org.mockito.kotlin:mockito-kotlin:5.2.1")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
   testImplementation("io.jsonwebtoken:jjwt-impl:0.12.6")
@@ -44,4 +45,8 @@ tasks {
   withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
     compilerOptions.jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21
   }
+}
+
+tasks.test {
+  useJUnitPlatform()
 }
