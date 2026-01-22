@@ -49,8 +49,7 @@ class AuthAwareTokenConverter : Converter<Jwt, AbstractAuthenticationToken> {
   }
 }
 
-private fun String.ensureRolePrefix(): String =
-  if (startsWith("ROLE_")) this else "ROLE_$this"
+private fun String.ensureRolePrefix(): String = if (startsWith("ROLE_")) this else "ROLE_$this"
 
 class AuthAwareAuthenticationToken(
   jwt: Jwt,
