@@ -44,7 +44,7 @@ class ChartControllerTest : IntegrationTestBase() {
 
     webTestClient.get()
       .uri("/api/data-insights/chart/ACI/1a")
-      .headers(setHeaders())
+      .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS")))
       .exchange()
       .expectStatus()
       .isOk
@@ -61,7 +61,7 @@ class ChartControllerTest : IntegrationTestBase() {
 
     webTestClient.get()
       .uri("/api/data-insights/chart/last-updated/1a")
-      .headers(setHeaders())
+      .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS")))
       .exchange()
       .expectStatus()
       .isOk

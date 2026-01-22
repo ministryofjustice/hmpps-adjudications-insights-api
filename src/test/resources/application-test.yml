@@ -2,6 +2,12 @@ spring:
   main:
     allow-bean-definition-overriding: true
 
+logging:
+  level:
+    root: INFO
+    org.springframework.security: DEBUG
+    org.springframework.security.oauth2: DEBUG
+
 server:
   shutdown: immediate
 
