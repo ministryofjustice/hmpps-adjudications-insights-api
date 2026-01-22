@@ -27,7 +27,7 @@ dependencies {
   implementation("com.amazonaws:aws-java-sdk-s3:1.12.787")
   implementation("com.amazonaws:aws-java-sdk-sts:1.12.787")
 
-  //AWS
+  // AWS
   implementation("uk.gov.justice.service.hmpps:hmpps-sqs-spring-boot-starter:6.0.0")
 
   testImplementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter-test:2.0.0")
