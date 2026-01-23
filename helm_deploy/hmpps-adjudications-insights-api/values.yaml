@@ -29,9 +29,9 @@ generic-service:
 
   namespace_secrets:
     hmpps-adjudications-insights-api:
-      APPINSIGHTS_INSTRUMENTATIONKEY: "APPINSIGHTS_INSTRUMENTATIONKEY"
+      APPINSIGHTS_INSTRUMENTATIONKEY: "b44af8fc-1647-443d-8cea-55c5cfbd4518"
     analytical-platform-s3-bucket-output:
-      DATA-INSIGHTS_BUCKET_NAME: "bucket_name"
+      DATA-INSIGHTS_BUCKET_NAME: "cloud-platform-403569db5b294899ffe32e696b1c4ab1"
 
   allowlist:
     groups:
