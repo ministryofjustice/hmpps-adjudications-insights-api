@@ -8,26 +8,22 @@ import org.springframework.http.HttpHeaders
 import org.springframework.http.MediaType
 import org.springframework.test.context.ActiveProfiles
 import org.springframework.test.web.reactive.server.WebTestClient
-import uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.utils.JwtAuthHelper
+import uk.gov.justice.hmpps.test.kotlin.auth.JwtAuthorisationHelper
 
 @SpringBootTest(webEnvironment = RANDOM_PORT)
 @AutoConfigureWebTestClient(timeout = "36000")
 @ActiveProfiles("test")
 abstract class IntegrationTestBase {
 
-  @Suppress("SpringJavaInjectionPointsAutowiringInspection")
   @Autowired
   lateinit var webTestClient: WebTestClient
 
   @Autowired
-  lateinit var jwtAuthHelper: JwtAuthHelper
+  lateinit var jwtAuthHelper: JwtAuthorisationHelper
 
   fun setHeaders(
     contentType: MediaType = MediaType.APPLICATION_JSON,
     username: String? = "ITAG_USER",
     roles: List<String> = listOf("ROLE_VIEW_ADJUDICATIONS"),
-  ): (HttpHeaders) -> Unit = {
-    it.setBearerAuth(jwtAuthHelper.createJwt(subject = username, roles = roles))
-    it.contentType = contentType
-  }
+  ): (HttpHeaders) -> Unit = jwtAuthHelper.setAuthorisationHeader(username = username, roles = roles)
 }

@@ -35,8 +35,6 @@ dependencies {
   testImplementation("org.mockito.kotlin:mockito-kotlin:5.2.1")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
-  testImplementation("io.jsonwebtoken:jjwt-impl:0.12.6")
-  testImplementation("io.jsonwebtoken:jjwt-jackson:0.12.6")
 }
 
 java {
