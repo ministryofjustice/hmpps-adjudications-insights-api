@@ -13,7 +13,7 @@ class ChartApiIntegrationTest : IntegrationTestBase() {
   fun `get chart by name`(chart: Chart) {
     webTestClient.get()
       .uri("/api/data-insights/chart/MDI/${chart.chartName}")
-      .headers(setHeaders())
+      .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS")))
       .exchange()
       .expectStatus().is2xxSuccessful
   }
@@ -23,7 +23,7 @@ class ChartApiIntegrationTest : IntegrationTestBase() {
   fun `get chart metadata by name`(chart: Chart) {
     val response = webTestClient.get()
       .uri("/api/data-insights/chart/last-updated/${chart.chartName}")
-      .headers(setHeaders())
+      .headers(setHeaders(roles = listOf("ROLE_VIEW_ADJUDICATIONS")))
       .exchange()
       .expectStatus().is2xxSuccessful
       .expectBody(ChartMetadataDto::class.java)

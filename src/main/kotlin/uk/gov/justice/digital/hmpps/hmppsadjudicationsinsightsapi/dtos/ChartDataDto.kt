@@ -4,19 +4,19 @@ import io.swagger.v3.oas.annotations.media.Schema
 
 @Schema(description = "Details of a chart data entry")
 data class ChartDataResponseDto(
-  @Schema(
+  @param:Schema(
     description = "Prison agency ID",
     example = "ACI",
   )
   val agencyId: String,
 
-  @Schema(
+  @param:Schema(
     description = "Chart name",
     example = "1a",
   )
   val chartName: String,
 
-  @Schema(
+  @param:Schema(
     description = "List of chart data details",
   )
   val chartEntries: List<Map<String, Any>>,

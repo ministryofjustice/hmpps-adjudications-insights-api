@@ -5,12 +5,12 @@ import java.time.LocalDateTime
 
 @Schema(description = "Chart information of the file stored on S3 bucket ")
 data class ChartMetadataDto(
-  @Schema(
+  @param:Schema(
     description = "Chart name",
     example = "1a",
   )
   val chartName: String,
-  @Schema(
+  @param:Schema(
     description = "Last Modified Date",
     example = "2023-08-16 15:23:47",
   )
