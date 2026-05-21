@@ -36,6 +36,7 @@ jobs:
     uses: ministryofjustice/hmpps-github-actions/.github/workflows/gradle_localstack_verify.yml@v2 # WORKFLOW_VERSION
     secrets: inherit
     with:
+      java-version: 25
       localstack-services: s3
       localstack-tag: latest
   build:
