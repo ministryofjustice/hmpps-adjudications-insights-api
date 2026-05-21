@@ -38,7 +38,7 @@ jobs:
     with:
       java-version: 25
       localstack-services: s3
-      localstack-tag: latest
+      localstack-tag: "3.0"
   build:
     name: Build docker image from hmpps-github-actions
     if: github.ref == 'refs/heads/main'
