@@ -7,6 +7,14 @@ plugins {
 
 configurations {
   testImplementation { exclude(group = "org.junit.vintage") }
+  all {
+    resolutionStrategy.eachDependency {
+      if (requested.group == "io.opentelemetry" && requested.name == "opentelemetry-api") {
+        useVersion("1.62.0")
+        because("CVE-2026-45292: resource allocation without limits, fixed in 1.62.0")
+      }
+    }
+  }
 }
 
 repositories {
@@ -15,6 +23,15 @@ repositories {
 }
 
 dependencies {
+  constraints {
+    implementation("org.springframework.retry:spring-retry:2.0.13") {
+      because("CVE-2026-41710: resource allocation without limits, fixed in 2.0.13")
+    }
+    implementation("io.opentelemetry:opentelemetry-api:1.62.0") {
+      because("CVE-2026-45292: resource allocation without limits, fixed in 1.62.0")
+    }
+  }
+
   implementation("org.springframework.boot:spring-boot-starter-actuator")
   implementation("org.springframework.boot:spring-boot-starter-webclient")
   implementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter:2.4.0")
