@@ -1,20 +1,12 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-  id("uk.gov.justice.hmpps.gradle-spring-boot") version "10.3.1"
+  id("uk.gov.justice.hmpps.gradle-spring-boot") version "10.5.4"
   kotlin("plugin.spring") version "2.3.21"
 }
 
 configurations {
   testImplementation { exclude(group = "org.junit.vintage") }
-  all {
-    resolutionStrategy.eachDependency {
-      if (requested.group == "com.fasterxml.jackson.core" && requested.name == "jackson-core") {
-        useVersion("2.21.3")
-        because("Fix GHSA-72hv-8253-57qq: jackson-core async parser DoS")
-      }
-    }
-  }
 }
 
 repositories {
