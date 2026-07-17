@@ -1,8 +1,8 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-  id("uk.gov.justice.hmpps.gradle-spring-boot") version "10.5.4"
-  kotlin("plugin.spring") version "2.3.21"
+  id("uk.gov.justice.hmpps.gradle-spring-boot") version "10.5.7"
+  kotlin("plugin.spring") version "2.4.10"
 }
 
 configurations {
@@ -27,7 +27,7 @@ dependencies {
     implementation("org.springframework.retry:spring-retry:2.0.13") {
       because("CVE-2026-41710: resource allocation without limits, fixed in 2.0.13")
     }
-    implementation("io.opentelemetry:opentelemetry-api:1.62.0") {
+    implementation("io.opentelemetry:opentelemetry-api:1.64.0") {
       because("CVE-2026-45292: resource allocation without limits, fixed in 1.62.0")
     }
   }
