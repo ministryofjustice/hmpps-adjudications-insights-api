@@ -5,6 +5,11 @@ plugins {
   kotlin("plugin.spring") version "2.3.21"
 }
 
+extra["jackson-2-bom.version"] = "2.22.1"
+extra["jackson-bom.version"] = "3.1.5"
+extra["netty.version"] = "4.2.16.Final"
+extra["httpcore5.version"] = "5.4.3"
+
 configurations {
   testImplementation { exclude(group = "org.junit.vintage") }
   all {
