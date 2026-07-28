@@ -2,6 +2,10 @@ spring:
   main:
     allow-bean-definition-overriding: true
 
+oauth:
+  endpoint:
+    url: http://localhost:9090/auth
+
 logging:
   level:
     root: INFO
