@@ -1,11 +1,14 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-  id("uk.gov.justice.hmpps.gradle-spring-boot") version "11.0.6"
+  id("uk.gov.justice.hmpps.gradle-spring-boot") version "11.0.9"
   kotlin("plugin.spring") version "2.3.21"
 }
 
-extra["jackson-2-bom.version"] = "2.22.1"
+extra["jackson-2-bom.version"] = "2.21.6"
+extra["jackson-bom.version"] = "3.1.6"
+extra["logback.version"] = "1.6.3"
+extra["netty.version"] = "4.2.18.Final"
 
 configurations {
   testImplementation { exclude(group = "org.junit.vintage") }
