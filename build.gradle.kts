@@ -30,7 +30,7 @@ dependencies {
     implementation("org.springframework.retry:spring-retry:2.0.13") {
       because("CVE-2026-41710: resource allocation without limits, fixed in 2.0.13")
     }
-    implementation("io.opentelemetry:opentelemetry-api:1.66.0") {
+    implementation("io.opentelemetry:opentelemetry-api:1.67.0") {
       because("CVE-2026-45292: resource allocation without limits, fixed in 1.62.0")
     }
   }
