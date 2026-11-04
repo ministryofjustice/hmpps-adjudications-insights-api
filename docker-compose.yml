@@ -18,7 +18,6 @@ services:
       - AWS_SECRET_ACCESS_KEY=foobar
       - AWS_ACCESS_KEY_ID=foobar
       - S3_SKIP_CHECKSUM_VALIDATION=true
-      - PROVIDER_OVERRIDE_S3=stream
     volumes:
 #      - "./src/test/resources/test-data:/tmp/localstack/test-data"
       - "./src/test/resources/test-data:/data/test-data"

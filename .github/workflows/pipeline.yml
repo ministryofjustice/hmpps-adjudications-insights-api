@@ -50,7 +50,7 @@ jobs:
       upload-build-artifacts: ${{ github.ref == 'refs/heads/main' }}
       java-version: "25"
       localstack-services: s3
-      localstack-tag: "3.0"
+      localstack-tag: "4.14"
   build:
     name: Build docker image from hmpps-github-actions
     if: github.ref == 'refs/heads/main'

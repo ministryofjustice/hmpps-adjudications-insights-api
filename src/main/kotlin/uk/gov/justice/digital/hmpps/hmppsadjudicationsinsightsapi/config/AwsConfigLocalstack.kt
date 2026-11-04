@@ -1,5 +1,7 @@
 package uk.gov.justice.digital.hmpps.hmppsadjudicationsinsightsapi.config
 
+import com.amazonaws.auth.AWSStaticCredentialsProvider
+import com.amazonaws.auth.BasicAWSCredentials
 import com.amazonaws.client.builder.AwsClientBuilder
 import com.amazonaws.services.s3.AmazonS3
 import com.amazonaws.services.s3.AmazonS3ClientBuilder
@@ -14,5 +16,5 @@ class AwsConfigLocalstack {
   @Bean
   fun amazonS3(): AmazonS3? = AmazonS3ClientBuilder.standard().withEndpointConfiguration(
     AwsClientBuilder.EndpointConfiguration("http://s3.localhost.localstack.cloud:4566", "eu-west-1"),
-  ).build()
+  ).withCredentials(AWSStaticCredentialsProvider(BasicAWSCredentials("test", "test"))).build()
 }
