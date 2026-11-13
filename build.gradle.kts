@@ -30,14 +30,14 @@ dependencies {
     implementation("org.springframework.retry:spring-retry:2.0.13") {
       because("CVE-2026-41710: resource allocation without limits, fixed in 2.0.13")
     }
-    implementation("io.opentelemetry:opentelemetry-api:1.67.0") {
+    implementation("io.opentelemetry:opentelemetry-api:1.68.0") {
       because("CVE-2026-45292: resource allocation without limits, fixed in 1.62.0")
     }
   }
 
   implementation("org.springframework.boot:spring-boot-starter-actuator")
   implementation("org.springframework.boot:spring-boot-starter-webclient")
-  implementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter:3.0.3")
+  implementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter:3.1.0")
   implementation("org.springframework.boot:spring-boot-starter-security")
   implementation("org.springframework.boot:spring-boot-starter-oauth2-resource-server")
   implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
@@ -52,7 +52,7 @@ dependencies {
   // AWS
   implementation("uk.gov.justice.service.hmpps:hmpps-sqs-spring-boot-starter:7.4.1")
 
-  testImplementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter-test:3.0.3")
+  testImplementation("uk.gov.justice.service.hmpps:hmpps-kotlin-spring-boot-starter-test:3.1.0")
   testImplementation("org.springframework.boot:spring-boot-starter-webflux-test")
   testImplementation("org.mockito.kotlin:mockito-kotlin:6.4.0")
   testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
